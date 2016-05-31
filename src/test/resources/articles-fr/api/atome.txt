@@ -1,0 +1,121 @@
+{{voir|atòme}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+:Du {{étyl|la|fr}} ''[[atomus]]'' (« [[partie]] [[élémentaire]] de la [[matière]] »), lui-même du {{étyl|grc|fr|mot=ἄτομος|tr=átomos|sens=insécable, non coupé}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|a.tom}}
+'''atome''' {{pron|a.tom|fr}} {{m}}
+# {{chimie physique|fr}} [[composant|Composant]] de la [[matière]], plus [[petit]]e [[partie]] d'un [[corps simple]] [[pouvant]] se [[combiner]] avec une [[autre]].
+#* ''Une molécule d’eau contient trois '''atomes''', celle de dioxygène deux. - L’'''atome''' est formé d’un noyau positif entouré d’électrons négatifs.''
+# {{figuré|fr}} Pour [[exprimer]] l’[[extrême]] [[petitesse]] de [[certain]]s corps [[relativement]] à d’[[autre]]s, ou à l’[[espace]] dans [[lequel]] ils [[exister|existent]].
+#* ''Il y avait autrefois un grain de sable qui se lamentait d'être un '''atome''' ignoré dans les déserts.'' {{source|{{w|Voltaire}}, ''{{w|Zadig|Zadig ou la Destinée}}'', XIV. ''Le brigand'', 1748}}
+#* ''De leur force collective, l’humanité tire une grande prospérité matérielle, tandis que l’homme pauvre n’a par lui-même absolument aucune importance. Il n’est que l’'''atome''' infinitésimal d’une force qui, loin de le respecter, le broie et d’ailleurs le préfère broyé, car plus docile.'' {{source|{{w|Oscar Wilde}}, ''L’Âme humaine'', 1891. Traduction de Nicole Vallée, 2006. p. 17.}}
+#* ''Quoique je n’aie pas un '''atome'''<br>Une ombre de méchanceté<br>S´il fouette mes chats, y a un fantôme<br>Qui viendra le persécuter.'' {{source|{{w|Georges Brassens}}, ''Le Testament'', in ''{{w|Je me suis fait tout petit}}'', 1956}}
+#* ''Les hommes sont des '''atomes''' sur le globe, qui n’est lui-même qu’un '''atome''' dans l’immensité.''
+# [[corps|Corps]] [[regarder|regardé]] comme [[indivisible]], à [[cause]] de son [[extrême]] [[petitesse]].
+#* ''Il ne restera pas un '''atome''' de ce corps gracieux pour que nous puissions dire : « C’est ici que fut la vie et le mouvement ! »'' {{source|{{Citation/Walter Scott/Ivanhoé/1820}}}}
+#* ''Tous les corps existants sont composés de ces '''atomes''' en contact immédiat, et peuvent conséquemment être considérés comme de simples assemblages de différences plus ou moins nombreuses ; […].'' {{source|{{w|Edgar Poe}}, ''[[s:Eureka|Eureka]]'', 1848, traduction de {{w|Charles Baudelaire}}, 1864}}
+#* ''L’'''atome''' était, pour Démocrite et Épicure, le plus petit élément indivisible de la matière.''
+# {{par ext|fr}} {{vieilli|fr}} [[grain|Grains]] [[minuscule]]s de [[poussière]] qui [[voltiger|voltigent]] en l’[[air]] et que l’on [[apercevoir|aperçoit]] [[lorsqu’]]un [[rayon]] du [[soleil]] [[pénétrer|pénètre]] dans un [[endroit]] [[obscur]] ou [[ombrager|ombragé]].
+# [[genre|Genre]] d'[[arachnide|arachnides]]<ref>[//books.google.fr/books?id=TJkGAAAAQAAJ&pg=PA48&lpg=PA48&dq=atome+genre+arachnide&source=bl&ots=ixR-F0i3EY&sig=22BVlwB1zLZ8Vl4vISDXQpbg_1E&hl=fr&sa=X&ei=RZ5kUPn2Nqml0AWLhoHIBw&ved=0CDAQ6AEwAg#v=onepage&q=atome%20genre%20arachnide&f=false ''Supplément au Dictionnaire de l'Académie : ainsi qu'à la plupart des a autres lexiques français, contenant les termes appropriés aux arts et aux sciences, et les mots nouveaux consacrés par l'usage, Volume 1'', Académie française, Masson et fils, 1827]</ref>.
+ 
+
+==== {{S|apparentés}} ====
+* [[atomique]]
+
+==== {{S|hyponymes}} ====
+* [[ion]]
+* [[isotope]]
+
+==== {{S|holonymes}} ====
+* [[molécule]]
+* [[élément chimique]]
+
+==== {{S|méronymes}} ====
+* [[électron]]
+* [[noyau]]
+* [[neutron]]
+* [[proton]]
+
+==== {{S|traductions}} ====
+{{trad-début|Composant de la matière}}
+* {{T|de}} : {{trad+|de|Atom|n}}
+* {{T|en}} : {{trad+|en|atom}}
+* {{T|lb}} : {{trad+|lb|Atom|m}}
+{{trad-fin}}
+{{trad-début|à trier}}
+* {{T|af}} : {{trad+|af|atoom}}
+* {{T|en}} : {{trad+|en|atom}} (1,3) ; {{trad+|en|mote}} (2,4)
+* {{T|ca}} : {{trad+|ca|àtom}}
+* {{T|da}} : {{trad+|da|atom}}
+* {{T|es}} : {{trad+|es|átomo}}
+* {{T|eo}} : {{trad-|eo|atomo}}
+* {{T|el}} : {{trad+|el|άτομο}}
+* {{T|hu}} : {{trad+|hu|atom}}
+* {{T|io}} : {{trad+|io|atomo}}
+* {{T|id}} : {{trad+|id|atom}}
+* {{T|it}} : {{trad+|it|atomo}}
+* {{T|la}} : {{trad-|la|atomus}}
+* {{T|nl}} : {{trad+|nl|atoom}}
+*{{T|oc}} : {{trad-|oc|atom}}
+* {{T|pap}} : {{trad--|pap|atom}}
+* {{T|pt}} : {{trad+|pt|átomo}}
+* {{T|ru}} : {{trad+|ru|атом}}
+* {{T|sv}} : {{trad+|sv|atom}}
+* {{T|tr}} : {{trad+|tr|atom}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France|œ̃.n‿a.tom|audio=Fr-atome.ogg}}
+
+==== {{S|paronymes}} ====
+* [[atone]]
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+<references/>
+
+[[Catégorie:Arachnides en français]]
+
+== {{langue|sl}} ==
+=== {{S|nom|sl|flexion}} ===
+'''atome''' {{pron||sl}} {{m|i}}
+# ''Accusatif pluriel de'' [[atom#sl|atom]].
+
+[[ast:atome]]
+[[co:atome]]
+[[cs:atome]]
+[[da:atome]]
+[[de:atome]]
+[[el:atome]]
+[[en:atome]]
+[[et:atome]]
+[[eu:atome]]
+[[fi:atome]]
+[[fy:atome]]
+[[gl:atome]]
+[[hu:atome]]
+[[id:atome]]
+[[io:atome]]
+[[ko:atome]]
+[[lb:atome]]
+[[lo:atome]]
+[[lt:atome]]
+[[mg:atome]]
+[[nl:atome]]
+[[no:atome]]
+[[pl:atome]]
+[[pt:atome]]
+[[ru:atome]]
+[[scn:atome]]
+[[sh:atome]]
+[[sv:atome]]
+[[ta:atome]]
+[[tr:atome]]
+[[vi:atome]]
+[[zh:atome]]

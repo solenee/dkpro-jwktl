@@ -1,0 +1,14 @@
+==French==
+
+===Noun===
+{{fr-noun|head=[[médecin]] [[traitant]]|m|médecins traitants}}
+
+# [[general practitioner]] ([[GP]])
+
+===External links===
+* {{R:TLFi}}
+
+[[Category:fr:Occupations|medecin traitant]]
+
+[[fr:médecin traitant]]
+[[ko:médecin traitant]]

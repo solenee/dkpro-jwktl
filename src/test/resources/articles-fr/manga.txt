@@ -1,0 +1,146 @@
+{{voir|Manga|många}}
+
+== {{langue|fr}} ==
+
+=== {{S|étymologie}} ===
+: {{siècle|XX}} Du {{étyl|ja|fr|漫画|manga|dessin sans but}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|mɑ̃.ɡa}}
+'''manga''' {{pron|mɑ̃.ɡa|fr}} {{m}}
+# {{BD|fr}} [[bande dessinée|Bande dessinée]] [[japonais]]e, souvent en noir et blanc.
+#* ''Au pays du Soleil-Levant, les '''mangas''' sont bien plus importants que les BD ne peuvent l’être en France.''
+# Style, stéréotypes et règles implicites de la bande dessinée japonaise.
+#* ''Certaines caractéristiques du '''manga''' proviennent de l’influence des films de Walt Disney sur Osamu Tezuka.''
+# [[dessin animé|Dessin animé]] japonais ; [[anime#fr|anime]].
+#* ''Hier soir, juste au moment où j’allais me coucher, je suis tombée sur un programme télévisé, un '''manga''' plus précisément qui m’a emmené loin de mes tracas du quotidien.'' {{source|Carole Luna, ''Témoignage d’une femme à bout de force'', 2008}}
+#* ''Né à Tōkyō en 1941, il débute sa carrière comme intervalliste dans les célèbres studios d'animation Tôei, d'où sortent les plus grands '''mangas''' japonais.'' {{source|{{w|Petit Futé}} Japon 2013-2014, p.68}} 
+
+===== {{S|note}} =====
+: Le mot ''manga'' a aussi été considéré comme féminin, mais l’usage tend à préférer le masculin.
+
+==== {{S|dérivés}} ====
+* [[mangaka]]
+
+==== {{S|hyperonymes}} ====
+* [[bande dessinée]]
+
+==== {{S|hyponymes}} ====
+* [[josei‎]] {{term|pour femme}}
+* [[redikomi]] {{term|pour femme}}
+* [[seinen]] {{term|pour homme}}
+* [[shōjo]] {{term|pour fille}}
+* [[shōnen]] {{term|pour garçon}}
+* [[yaoi]]
+
+==== {{S|traductions}} ====
+{{trad-début|Bande dessinée japonaise}}
+* {{T|en}} : {{trad+|en|manga}}
+* {{T|ko}} : {{trad+|ko|만화|tr=manhwa}}
+* {{T|eo}} : {{trad-|eo|mangao}}
+* {{T|ja}} : {{trad+|ja|漫画|tr=manga}}
+* {{T|sv}} : {{trad+|sv|manga}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France|mɑ̃.ɡa|fr}}
+* {{écouter|lang=fr|Canada {{standard|nocat=1}}|maŋ.ɡa|fr}}
+* {{écouter|lang=fr|Canada {{popu|nocat=1}}|maŋ.ɡɔ|fr}}
+
+=== {{S|anagrammes}} ===
+* [[magna]]
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+== {{langue|en}} ==
+
+=== {{S|étymologie}} ===
+: Du {{étyl|ja|en|漫画|manga}}.
+
+=== {{S|nom|en}} ===
+{{en-nom-rég|ˈmæŋ.ɡə}}
+'''manga''' {{pron|ˈmæŋ.ɡə|en}}
+# {{BD|en}} [[manga#fr|Manga]].
+
+== {{langue|es}} ==
+
+=== {{S|étymologie}} ===
+: ''(Nom commun 1)'' Du {{étyl|la|es|manica}}.
+: ''(Nom commun 2)'' Du {{étyl|ja|es|漫画|manga}}.
+
+=== {{S|nom|es|num=1}} ===
+{{es-reg-voy|ˈmaŋ.ɡa}}
+'''manga''' {{pron|ˈmaŋ.ɡa|es}} {{f}}
+# [[manche|Manche]].
+
+=== {{S|nom|es|num=2}} ===
+'''manga''' {{pron|ˈmaŋ.ɡa|es}} {{f}} {{pluriel ?|es}}
+# {{BD|es}} [[#fr|Manga]].
+
+== {{langue|pap}} ==
+
+=== {{S|étymologie}} ===
+: Du {{étyl|la|pap|manica||manche d’un vêtement}}.
+
+=== {{S|nom|pap}} ===
+'''manga''' {{pron||pap}} {{f}}
+# [[rocher|Rocher]].
+# [[manche|Manche]].
+
+== {{langue|pt}} ==
+
+=== {{S|étymologie}} ===
+: ''(Nom commun 1)'' Du {{étyl|la|pt|manica}}.
+: ''(Nom commun 2)'' Du {{étyl|ms|pt|mangga}}.
+
+=== {{S|nom|pt|num=1}} ===
+{{pt-rég|}}
+'''manga''' {{pron||pt}} {{f}}
+# {{vêtements|pt}} [[manche#fr|Manche]].
+
+=== {{S|nom|pt|num=2}} ===
+{{pt-rég|}}
+'''manga''' {{pron||pt}} {{f}}
+# {{plantes|pt}} [[mangue#fr|Mangue]].
+
+[[ar:manga]]
+[[az:manga]]
+[[chr:manga]]
+[[de:manga]]
+[[el:manga]]
+[[en:manga]]
+[[eo:manga]]
+[[es:manga]]
+[[et:manga]]
+[[eu:manga]]
+[[fi:manga]]
+[[fj:manga]]
+[[hi:manga]]
+[[hu:manga]]
+[[id:manga]]
+[[io:manga]]
+[[it:manga]]
+[[ja:manga]]
+[[jv:manga]]
+[[kn:manga]]
+[[ko:manga]]
+[[ku:manga]]
+[[ln:manga]]
+[[lt:manga]]
+[[mg:manga]]
+[[mn:manga]]
+[[my:manga]]
+[[nl:manga]]
+[[oc:manga]]
+[[pl:manga]]
+[[pt:manga]]
+[[ro:manga]]
+[[ru:manga]]
+[[rw:manga]]
+[[ss:manga]]
+[[sv:manga]]
+[[th:manga]]
+[[tl:manga]]
+[[tr:manga]]
+[[zh:manga]]

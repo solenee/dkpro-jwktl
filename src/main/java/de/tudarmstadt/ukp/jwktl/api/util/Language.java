@@ -104,6 +104,8 @@ public class Language implements ILanguage {
 	public static final ILanguage GERMAN = get("deu");
 	/** The Russian language. */
 	public static final ILanguage RUSSIAN = get("rus");
+	/** The French language. */ //SEH
+	public static final ILanguage FRENCH = get("fra"); // XXX SEH Added fra as ILanguage 
 	
 	private static boolean initialized;
 	private static Map<String, ILanguage> languageIndex;

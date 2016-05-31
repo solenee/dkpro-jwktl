@@ -1,0 +1,132 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|1864}} Du {{étyl|la|en|mot=ultra|sens=[[plus]] [[haut]]}}, et du français ''[[violet]]'', indiquant une [[fréquence]] de la lumière plus haute que le violet.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-et|yl.tʁa.vjɔ.l}}
+'''ultraviolet''' {{pron|yl.tʁa.vjɔ.lɛ|fr}} {{ortho1990}}
+# {{physique|fr}} Dont la [[longueur d’onde]] est plus courte que celles de la [[lumière visible]] dans le [[spectre électromagnétique]].
+#* ''Le soleil et le bronzage en cabine représentent les principales sources d’exposition aux rayonnements '''ultraviolets''' pour la population générale.''
+
+==== {{S|variantes ortho}} ====
+* [[ultra-violet#fr-adj|ultra-violet]] {{tradit}}
+
+==== {{S|abréviations}} ====
+* [[UV#fr|UV]]
+
+==== {{S|vocabulaire}} ====
+* [[infrarouge#fr-adj|infrarouge]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|de}} : {{trad+|de|ultraviolett}}
+* {{T|en}} : {{trad+|en|ultraviolet}}
+* {{T|zh}} : {{trad+|zh|紫外线|tradi=紫外線|tr=zǐwàixiàn}}
+* {{T|ko}} : {{trad+|ko|자외선|tradi=紫外線|tr=jawoeseon}}
+* {{T|ja}} : {{trad-|ja|紫外|tr=shigai}}, {{trad+|ja|紫外線|tr=shigaisen}}
+* {{T|pl}} : {{trad+|pl|ultrafiolet}}, {{trad-|pl|nadfiolet}}
+* {{T|ro}} : {{trad+|ro|ultraviolet}}
+* {{T|tr}} : {{trad+|tr|morötesi}}
+{{trad-fin}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|yl.tʁa.vjɔ.lɛ}}
+'''ultraviolet''' {{pron|yl.tʁa.vjɔ.lɛ|fr}} {{m}} {{ortho1990}}
+# {{physique|fr}} [[lumière|Lumière]] [[#fr-adj|ultraviolet]]te.
+#* ''L’infrarouge et l’'''ultraviolet'''.''
+#* ''Pour bronzer, je me suis fait une séance d’'''ultraviolets'''.''
+
+==== {{S|variantes ortho}} ====
+* [[ultra-violet#fr-nom|ultra-violet]] {{tradit}}
+
+==== {{S|abréviations}} ====
+* [[UV]]
+
+==== {{S|hyponymes}} ====
+* [[lumière noire#fr|lumière noire]]
+* [[lumière de Wood#fr|lumière de Wood]]
+
+==== {{S|vocabulaire}} ====
+* [[infrarouge#fr-nom|infrarouge]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|de}} : {{trad-|de|Ultraviolett}}, {{trad-|de|UV}}, {{trad+|de|Ultraviolettstrahlung|f}}, {{trad+|de|UV-Strahlung|f}}, {{trad-|de|ultraviolette Licht|n}}, {{trad+|de|UV-Licht|n}}
+* {{T|en}} : {{trad+|en|ultraviolet}}, {{trad+|en|UV}}, {{trad+|en|ultraviolet light}}, {{trad-|en|UV light}}, {{trad-|en|ultraviolet radiation}}, {{trad-|en|UV radiation}}
+* {{T|zh}} : {{trad+|zh|紫外线|tradi=紫外線|tr=zǐwàixiàn}}
+* {{T|ko}} : {{trad+|ko|자외선|tradi=紫外線|tr=jawoeseon}}
+* {{T|it}} : {{trad+|it|ultravioletto|m}}, {{trad-|it|radiazione ultravioletta|f}}, {{trad-|it|raggio ultravioletto|m}}, {{trad-|it|luce ultravioletta|f}}
+* {{T|ja}} : {{trad+|ja|紫外線|tr=shigaisen}}
+* {{T|pl}} : {{trad+|pl|ultrafioletowy}}
+* {{T|ro}} : {{trad+|ro|ultraviolet}}, {{trad-|ro|raze ultraviolete}}
+* {{T|tr}} : {{trad+|tr|morötesi}}
+{{trad-fin}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:Littré}}
+
+== {{langue|en}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|en|mot=ultra|sens=plus haut}} et de l’anglais {{lien|''violet''|en|sens=violet}}.
+
+=== {{S|adjectif|en}} ===
+{{en-adj}}
+'''ultraviolet''' {{pron|ˌʌl.tɹəˈvaɪ.ə.lɪt|en}}
+# {{physique|en}} [[#fr-adj|Ultraviolet]].
+
+==== {{S|vocabulaire}} ====
+* {{lien|infrared|en|adj}}
+
+=== {{S|nom|en}} ===
+{{en-nom-rég|ˌʌl.tɹəˈvaɪ.ə.lɪt}}
+'''ultraviolet''' {{pron|ˌʌl.tɹəˈvaɪ.ə.lɪt|en}}
+# {{physique|en}} [[#fr-nom|Ultraviolet]] (rayonnnement).
+
+==== {{S|abréviations}} ====
+* {{lien|UV|en|nom}}
+
+==== {{S|synonymes}} ====
+* {{lien|ultraviolet light|en}}, {{lien|UV light|en}}
+* {{lien|ultraviolet radiation|en}}, {{lien|UV radiation|en}}
+
+==== {{S|hyponymes}} ====
+* {{lien|black light|en}}
+* {{lien|Wood’s light|en}}
+
+==== {{S|vocabulaire}} ====
+* {{lien|infrared|en|nom}}, {{lien|IR|en}}
+* {{lien|infrared light|en}}, {{lien|IR light|en}}
+* {{lien|infrared radiation|en}}, {{lien|IR radiation|en}}
+
+=== {{S|voir aussi}} ===
+* {{WP|lang=en}}
+
+[[ca:ultraviolet]]
+[[cy:ultraviolet]]
+[[el:ultraviolet]]
+[[en:ultraviolet]]
+[[et:ultraviolet]]
+[[fi:ultraviolet]]
+[[hu:ultraviolet]]
+[[hy:ultraviolet]]
+[[id:ultraviolet]]
+[[io:ultraviolet]]
+[[ja:ultraviolet]]
+[[kn:ultraviolet]]
+[[ko:ultraviolet]]
+[[ku:ultraviolet]]
+[[mg:ultraviolet]]
+[[my:ultraviolet]]
+[[nl:ultraviolet]]
+[[no:ultraviolet]]
+[[pl:ultraviolet]]
+[[ro:ultraviolet]]
+[[sq:ultraviolet]]
+[[ta:ultraviolet]]
+[[tr:ultraviolet]]
+[[vi:ultraviolet]]
+[[zh:ultraviolet]]
+[[zh-min-nan:ultraviolet]]

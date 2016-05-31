@@ -1,0 +1,29 @@
+==French==
+
+===Etymology===
+From {{etyl|frm|fr}}, from {{etyl|fro|fr}} {{m|fro|garison||healing}}, {{m|fro|guarir||to defend, protect, give health to}}, from {{etyl|frk|fr}} {{m|frk|*warjan||to defend, protect}}, from {{etyl|gem-pro|fr}} {{m|gem-pro|*warjaną||to defend, guard}}, from {{etyl|ine-pro|fr}} {{m|ine-pro|*(e)werwǝ-}}, {{m|ine-pro|*wrū-||to cover, defend, guard}}. Cognate with {{etyl|goh|-}} {{m|goh|werien||to defend, protect}}, {{etyl|ang|-}} {{m|ang|werian||to guard, keep, defend}}.
+
+===Pronunciation===
+* {{audio|Fr-guérison.ogg|audio|lang=fr}}
+* {{IPA|/ɡeʁizɔ̃/|lang=fr}}
+
+===Noun===
+{{fr-noun|f}}
+
+# [[recovery]], [[healing]]
+
+===External links===
+* {{R:TLFi}}
+
+[[cs:guérison]]
+[[el:guérison]]
+[[fr:guérison]]
+[[gl:guérison]]
+[[ko:guérison]]
+[[io:guérison]]
+[[hu:guérison]]
+[[mg:guérison]]
+[[oc:guérison]]
+[[pl:guérison]]
+[[fi:guérison]]
+[[vi:guérison]]

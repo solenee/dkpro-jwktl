@@ -1,0 +1,38 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|?}} Composé de ''{{lien|kinésie|fr}}'' et ''{{lien|thérapie|fr}}''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ki.ne.zi.te.ʁa.pi}}
+'''kinésithérapie''' {{pron|ki.ne.zi.te.ʁa.pi|fr}} {{f}}
+# {{médecine|fr}} [[thérapie|Thérapie]] traitant les [[articulation]]s, [[muscle]]s ou autres structures de [[soutien]] par des mouvements [[actif]]s ([[gymnastique]] par exemple) et [[passif]]s (tels que les [[massage]]s).
+#* ''Depuis son accident il doit suivre des séances de '''kinésithérapie'''.''
+#* ''La rééducation de l'appareil locomoteur, fait appel à de nombreuses techniques, dont la '''kinésithérapie''' qui offre des moyens de prise en charge de la douleur.'' {{source|{{w|Patrice Queneau}}, Gérard Osterman, ''Le médecin, le malade et la douleur'', 2004}}
+
+==== {{S|variantes}} ====
+* [[cinésithérapie]]
+
+==== {{S|apparentés}} ====
+* [[kinésithérapeute]]
+* [[kinésithérapique]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|en}} : {{trad+|en|physiotherapy}}
+* {{T|zh}} : {{trad-|zh|运动疗法}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Île-de-France) (avec [[sigmatisme latéral]])|ki.ne.ɮ͡zi.te.ʁa.pi|audio=Fr-Paris--kinésithérapie.ogg}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:GDT}}
+* {{R:TLFi}}
+{{clé de tri|kinesitherapie}}
+
+[[el:kinésithérapie]]
+[[en:kinésithérapie]]
+[[io:kinésithérapie]]

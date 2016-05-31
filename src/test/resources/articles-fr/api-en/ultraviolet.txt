@@ -1,0 +1,108 @@
+==English==
+{{wikipedia}}
+
+===Etymology===
+{{prefix|ultra|violet|lang=en}}
+
+===Adjective===
+{{en-adj|head=[[ultra-|ultra]][[violet]]}}
+
+# of [[electromagnetic radiation]] beyond (higher in frequency than) light visible to the human eye; radiation with wavelengths from 380 [[nanometre]] - 10 nanometre
+
+====Translations====
+{{trans-top|radiation with wavelengths from 380 nanometre - 10 nanometre}}
+* Catalan: {{t|ca|ultraviolat}}
+* Czech: {{t+|cs|ultrafialový}}
+* Danish: {{t|da|ultraviolet}}
+* Esperanto: {{t|eo|ultraviola}}
+* Finnish: {{t+|fi|ultravioletti}}
+* French: {{t+|fr|ultraviolet}}
+* Galician: {{t|gl|ultravioleta}}
+* German: {{t+|de|ultraviolett}}
+* Irish: {{t|ga|ultraivialait}}
+* Italian: {{t+|it|ultravioletto}}
+* Japanese: {{l|ja|紫外線}} ({{l|ja|しがいせん}}, ''[[shigaisen]]'')
+{{trans-mid}}
+* Macedonian: {{t|mk|ултравиолетов|m|tr=ultraviolétov}}
+* Malay: {{t|ms|ultraungu}}
+* Norwegian: {{t+|no|ultrafiolett}}
+* Persian: {{t+|fa|فرابنفش|tr=farâbanafš|sc=fa-Arab}}
+* Polish: {{t+|pl|ultrafioletowy}}
+* Portuguese: {{t+|pt|ultravioleta}}
+* Russian: {{t+|ru|ультрафиоле́т|m}}
+* Scottish Gaelic: {{t|gd|os-bhiolait}}
+* Spanish: {{t|es|ultravioleta}}
+* Swedish: {{t+|sv|ultraviolett}}
+* Welsh: {{t+|cy|uwchfioled}}
+{{trans-bottom}}
+
+===See also===
+* [[ultraviolet radiation]]
+
+===Noun===
+{{en-noun|~}}
+
+# Ultraviolet [[colour]].
+
+====Translations====
+{{trans-top|colour}}
+* Catalan: {{t|ca|ultraviolat|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|紫外|tr=zǐwài|sc=Hani}}
+* German: {{t|de|Ultraviolett|n}}
+* Japanese: {{t|ja|紫外|tr=しがい, shigai|sc=Jpan}}
+{{trans-mid}}
+* Polish: {{t+|pl|ultrafiolet|m}}
+* Portuguese: {{t+|pt|ultravioleta|m|f}}
+* Russian: {{t+|ru|ультрафиоле́товый}}
+* Scottish Gaelic: {{t|gd|os-bhiolait|f}}
+{{trans-bottom}}
+
+[[Category:en:Light]]
+
+----
+
+==French==
+
+===Etymology===
+From {{prefix|ultra|violet|lang=fr}}
+
+===Adjective===
+{{fr-adj|f=ultraviolette}}
+
+# [[#English|ultraviolet]]
+
+===Noun===
+{{fr-noun|m}}
+
+# [[#English|ultraviolet]] (light)
+
+===External links===
+* {{R:TLFi}}
+
+[[zh-min-nan:ultraviolet]]
+[[ca:ultraviolet]]
+[[cy:ultraviolet]]
+[[et:ultraviolet]]
+[[el:ultraviolet]]
+[[fr:ultraviolet]]
+[[ko:ultraviolet]]
+[[hy:ultraviolet]]
+[[io:ultraviolet]]
+[[id:ultraviolet]]
+[[kn:ultraviolet]]
+[[ku:ultraviolet]]
+[[hu:ultraviolet]]
+[[mg:ultraviolet]]
+[[my:ultraviolet]]
+[[nl:ultraviolet]]
+[[ja:ultraviolet]]
+[[no:ultraviolet]]
+[[pl:ultraviolet]]
+[[ro:ultraviolet]]
+[[sq:ultraviolet]]
+[[fi:ultraviolet]]
+[[ta:ultraviolet]]
+[[tr:ultraviolet]]
+[[vi:ultraviolet]]
+[[zh:ultraviolet]]

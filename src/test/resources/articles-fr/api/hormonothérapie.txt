@@ -1,0 +1,23 @@
+== {{langue|fr}} ==
+
+=== {{S|étymologie}} ===
+: {{siècle|XX}} {{deet|hormone|thérapie|lang=fr}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɔrmɔnɔterapi}}
+'''hormonothérapie''' {{pron|ɔrmɔnɔterapi|fr}} {{f}}
+# {{médecine|fr}} Traitement, en particulier d’un cancer, par les hormones.
+#* ''La liste des effets secondaires de l''''hormonothérapie''', qui a succédé aux rayons, est longue comme le bras[[...]]'' {{source|Marie-Hélène {{smcp|Comazzetto}} ,- ''Un 1er mai en rose''- Journal La Croix, page 24, 30 avril 2015}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|en}} : {{trad+|en|hormone therapy}}, {{trad+|en|hormonotherapy}}
+{{trad-fin}}
+
+=== {{S|références}} ===
+*{{R:DAF9}}
+
+{{clé de tri|hormonotherapie}}
+
+[[el:hormonothérapie]]
+[[vi:hormonothérapie]]

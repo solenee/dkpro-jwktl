@@ -1,0 +1,432 @@
+{{also|curé|curê}}
+==English==
+
+===Etymology===
+From {{etyl|fro|en}} {{m|fro|cure||care, cure, healing, cure of souls}}, from {{etyl|la|en}} {{m|la|cura||care, medical attendance, cure}}
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/kjʊə(ɹ)/|/kjɔː(ɹ)/|lang=en}}
+* {{rhymes|ʊə(ɹ)|ɔː(ɹ)|lang=en}}
+* {{a|US}} {{IPA|/kjʊɹ/|/kjɔɹ/|/kjɝ/|lang=en}}
+* {{audio|en-us-cure.ogg|Audio (US)|lang=en}}
+* {{a|Norfolk}} {{IPA|/kɜː(ɹ)/|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# A [[method]], [[device]] or [[medication]] that restores good health.
+#* {{quote-book|year=1913|author={{w|Joseph C. Lincoln}}|chapter=5
+|title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
+|passage=When you're well enough off so's you don't have to fret about anything but your heft or your diseases you begin to get queer, I suppose. And the queerer the '''cure''' for those ailings the bigger the attraction. A place like the Right Livers' Rest was bound to draw freaks, same as molasses draws flies.}}
+# Act of healing or state of being healed; restoration to health from disease, or to soundness after injury.
+#* Shakespeare
+#*: Past hope! past '''cure'''!
+#* Bible, Luke xii. 32
+#*: I do '''cures''' to-day and to-morrow.
+# A [[solution]] to a [[problem]].
+#* Dryden
+#*: Cold, hunger, prisons, ills without a '''cure'''.
+#* Bishop Hurd
+#*: the proper '''cure''' of such prejudices
+# A process of preservation, as by smoking.
+# A process of solidification or gelling.
+# {{label|en|engineering}} A [[process]] whereby a material is caused to form permanent [[molecular]] linkages by [[exposure]] to chemicals, heat, pressure and/or [[weathering]].
+# {{label|en|obsolete}} Care, heed, or attention.
+#* Chaucer
+#*: Of study took he most '''cure''' and most heed.
+#* Fuller
+#*: vicarages of great '''cure''', but small value
+# Spiritual charge; care of soul; the office of a parish priest or of a [[curate]].
+#* {{rfdate}} Spelman
+#*: The appropriator was the incumbent parson, and had the '''cure''' of the souls of the parishioners.
+# That which is committed to the charge of a parish priest or of a curate; a [[curacy]].
+
+====Derived terms====
+{{rel-top|terms derived from ''cure'' (noun)}}
+* [[anti-cure]]
+* [[cure is worse than the disease]]
+* [[cureless]]
+* [[miscure]]
+{{rel-mid}}
+* [[sweetcure]]
+* [[take the cure]]
+* [[water cure]]
+{{rel-bottom}}
+
+====Translations====
+{{trans-top|a method, device or medication that restores good health}}
+* Arabic: {{t+|ar|عِلَاج|m}}
+*: Egyptian Arabic: {{t|arz|علاج|m|tr=ʾelāg|sc=Arab}}، {{t|arz|ثرابي|m|tr=ṯerābi|sc=Arab}}
+* Armenian: {{t+|hy|բուժում|sc=Armn}}, {{t+|hy|բժշկում|sc=Armn}}, {{t+|hy|դեղ|sc=Armn}}, {{t+|hy|դեղամիջոց|sc=Armn}}
+* Bulgarian: {{t+|bg|лечение|n}}, {{t+|bg|лекарство|n}}
+* Chinese:
+*: Mandarin: {{t+|cmn|治療|sc=Hani}}, {{t+|cmn|治疗|tr=zhìliáo|sc=Hani}}
+*: Min Dong: {{t|cdo|治疗|tr=di liu|sc=Hani}}
+* Czech: {{t+|cs|léčba|f}}, {{t+|cs|lék|m}}
+* Dutch: {{t+|nl|remedie|f}}
+* Finnish: {{t|fi|parannus}}, {{t+|fi|hoito}}, {{t+|fi|lääke}}
+* French: {{t+|fr|traitement|m}}
+* Georgian: {{t|ka|მკურნალობა|sc=Geor}}, {{t|ka|წამალი|sc=Geor}}
+* German: {{t+|de|Heilung|f}}
+* Greek: {{t+|el|θεραπεία|f}}
+* Hebrew: {{t|he|מַרְפֵּא|m|tr=marpé}}
+* Irish: {{t|ga|leigheas|m}}
+{{trans-mid}}
+* Italian: {{t+|it|cura|f}}
+* Japanese: {{t+|ja|治療|tr=ちりょう, chiryō}}
+* Korean: {{t+|ko|치료|sc=Hang}} ({{t+|ko|治療|sc=Hang}})
+* Latin: {{t+|la|remedium|n}}
+* Maori: {{t|mi|rongoā}}
+* Norman: {{t|nrf|dgéthithon}}
+* Old English: {{t|ang|bōt}}
+* Persian: {{t+|fa|درمان|tr=darmân|sc=fa-Arab}}
+* Portuguese: {{t+|pt|cura|f}}
+* Romanian: {{t+|ro|tratament}}
+* Russian: {{t+|ru|лече́ние|n}}
+* Spanish: {{t+|es|cura|f}}, {{t+|es|curación|f}}, {{t+|es|remedio|m}}
+* Swedish: {{t+|sv|kur|c}}
+* Turkish: {{t+|tr|tedavi}}, {{t+|tr|kür}}
+* Welsh: {{t|cy|iachâd|m}}
+{{trans-bottom}}
+{{trans-top|a process of preservation, as by smoking or treating with salt}}
+* Maori: {{t|mi|wāmu}}, {{t|mi|whakapaoa}} {{qualifier|particularly by smoking}}, {{t|mi|whakatote }} {{qualifier|particularly by salting or in brine}}
+* Spanish: {{t+|es|curado|m}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|a process of solidification or gelling}}
+{{trans-mid}}
+{{trans-bottom}}
+{{trans-top|a process whereby a material is caused to form permanent molecular linkages by exposure to chemicals, heat, pressure and/or weathering}}
+* Bulgarian: {{t|bg|вулканиза́ция|f}}
+{{trans-mid}}
+* Russian: {{t+|ru|вулканиза́ция|f}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb|cur}}
+
+# {{label|en|transitive}} To restore to [[health]].
+#: {{ux|en|Unaided nature '''cured''' him.}}
+# {{label|en|transitive}} To bring (a disease or its bad effects) to an end.
+#* {{w|William Shakespeare}}
+#*: Whose smile and frown, like to Achilles' spear, / Is able with the change to kill and '''cure'''.
+#* {{quote-magazine|date=2013-06-22|volume=407|issue=8841|page=76|magazine={{w|The Economist}}
+|title=[http://www.economist.com/news/books-and-arts/21579801-making-sense-statistics-riddle-our-days-snakes-and-ladders Snakes and ladders]
+|passage=Risk is everywhere. From tabloid headlines insisting that coffee causes cancer (yesterday, of course, it '''cured''' it) to stern government warnings about alcohol and driving, the world is teeming with goblins. For each one there is a frighteningly precise measurement of just how likely it is to jump from the shadows and get you.}}
+#: {{ux|en|Unaided nature '''cured''' his ailments.}}
+# {{label|en|transitive}} To cause to be rid of (a defect).
+#: {{ux|en|Experience will '''cure''' him of his na&iuml;vet&eacute;.}}
+# {{label|en|transitive}} To prepare or alter especially by chemical or physical processing for keeping or use.
+#: {{ux|en|The smoke and heat '''cures''' the meat.}}
+# {{label|en|intransitive}} To bring about a [[cure#Noun|cure]] of any kind.
+# {{label|en|intransitive}} To be undergoing a chemical or physical process for preservation or use.
+#: {{ux|en|The meat was put in the smokehouse to '''cure'''.}}
+# {{label|en|intransitive}} To solidify or gel.
+#: {{ux|en|The parts were '''curing''' in the autoclave.}}
+# {{label|en|obsolete|intransitive}} To become healed.
+#* {{w|William Shakespeare}}
+#*: One desperate grief '''cures''' with another's languish.
+# {{label|en|obsolete}} To pay heed; to care; to give attention.
+
+=====Synonyms=====
+* {{sense|restore to good health}} [[heal]]
+
+=====Derived terms=====
+* [[cure-all]]
+* [[incurable]]
+* [[miscure]]
+
+=====Translations=====
+{{trans-top|to restore to health}}
+* Albanian: {{t+|sq|shëroj}}, {{t+|sq|kuroj}}
+* Arabic: {{t|ar|شَفَى}}
+* Armenian: {{t+|hy|բուժել|sc=Armn}}, {{t+|hy|բժշկել|sc=Armn}}
+* Bulgarian: {{t+|bg|излекувам}}, {{t+|bg|изцерявам}}
+* Chinese:
+*: Mandarin: {{t+|cmn|治療|sc=Hani}}, {{t+|cmn|治疗|tr=zhìliáo|sc=Hani}}
+* Czech: {{t+|cs|léčit}}, {{t|cs|uzdravit}}, {{t+|cs|vyléčit}}
+* Dutch: {{t+|nl|genezen}}
+* Finnish: {{t+|fi|parantaa}}, {{t+|fi|hoitaa}}
+* French: {{t+|fr|soigner}}, {{t+|fr|guérir}}
+* Georgian: {{t-needed|ka}}
+* German: {{t|de|kurieren}}, {{t+|de|heilen}}
+* Greek: {{t+|el|θεραπεύω}}
+*: Ancient: {{t|grc|ἰάομαι|sc=polytonic}}
+* Hebrew: {{t|he|ריפא|tr=ripé}}
+{{trans-mid}}
+* Ido: {{t+|io|risanigar}}
+* Italian: {{t+|it|curare}}
+* Japanese: {{t|ja|治す|tr=なおす, naosu|sc=Jpan}}, {{t|ja|癒す|tr=いやす, iyasu|sc=Jpan}}
+* Lao: {{t+|lo|ແກ້|tr=keeh|sc=Laoo}}
+* Latin: {{t+|la|sano}}, {{t+|la|medeor}}, {{t+|la|curo}}, {{t|la|medico}}
+* Norman: {{t|nrf|dgéthi}}
+* Norwegian:
+*: Bokmål: {{t|nb|helbrede}}
+* Portuguese: {{t+|pt|curar}}, {{t|pt|sanar}}
+* Quechua: {{t|qu|hampiy}}
+* Romanian: {{t+|ro|vindeca}}, {{t+|ro|însănătoși}}, {{t+|ro|tămădui}}
+* Russian: {{t+|ru|лечи́ть|impf}}, {{t+|ru|вы́лечить|pf}}, {{t+|ru|излечи́ть|pf}}, {{t+|ru|исцеля́ть|impf}}, {{t+|ru|исцели́ть|pf}}
+* Spanish: {{t+|es|curar}}
+* Swedish: {{t+|sv|bota}}, {{t+|sv|kurera}}
+* Turkish: {{t+|tr|tedavi etmek}}, {{t+|tr|iyileştirmek}}, {{t+|tr|sağaltmak}}
+{{trans-bottom}}
+
+{{trans-top|to bring (a disease) to an end}}
+* Armenian: {{t+|hy|բուժել|sc=Armn}}
+* Finnish: {{t+|fi|parantaa}}
+* French: {{t+|fr|guérir}}
+* German: {{t+|de|heilen}}
+* Greek:
+*: Ancient: {{t|grc|ἰάομαι|sc=polytonic}}
+{{trans-mid}}
+* Maori: {{t|mi|rongoā}}
+* Ngazidja Comorian: {{t|zdj|zihira|alt=uzihira}}
+* Norwegian:
+*: Bokmål: {{t|nb|helbrede}}
+{{trans-bottom}}
+
+{{trans-top|to cause to be rid of (a defect)}}
+* Finnish: {{t+|fi|parantaa}}
+* Greek:
+*: Ancient: {{t|grc|ἰάομαι|sc=polytonic}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to prepare for keeping or use}}
+* Bulgarian: {{t+|bg|консервирам}}
+* Finnish: {{t|fi|kypsyttää}}
+* German: {{t|de|haltbar machen}}, {{t+|de|trocknen}}, {{t+|de|räuchern}}, {{t+|de|pökeln}}
+* Irish: {{t|ga|leasaigh}}
+{{trans-mid}}
+* Maori: {{t|mi|wāmu}}, {{t|mi|whakapaoa}} {{qualifier|by smoking over a fire}}
+* Russian: {{t+|ru|консерви́ровать|impf}}, {{t+|ru|законсерви́ровать|pf}}, {{t+|ru|вя́лить|impf}}, {{t+|ru|провя́лить|pf}} {{qualifier|dry-cure}}
+* Scottish Gaelic: {{t|gd|saill}}
+{{trans-bottom}}
+
+{{trans-top|to being about a cure}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to undergo a process for preservation or use}}
+* Finnish: {{t+|fi|kypsyä}}
+{{trans-mid}}
+* Maori: {{t|mi|wāmu}}, {{t|mi|whakapaoa}}
+{{trans-bottom}}
+
+{{trans-top|to solidify or gel}}
+* Finnish: {{t|fi|jähmettyä}}, {{t|fi|kovettua}}
+{{trans-mid}}
+* German: {{t+|de|aushärten}}
+{{trans-bottom}}
+
+===Related terms===
+{{rel-top|terms related to ''cure''}}
+* [[curate]]
+* [[curative]]
+* [[curator]]
+{{rel-mid}}
+* [[pedicure]]
+* [[recure]]
+* [[sinecure]]
+{{rel-bottom}}
+
+===Anagrams===
+* [[ecru#English|ecru]]
+
+----
+
+==French==
+
+===Etymology===
+From {{etyl|fro|fr}}, from {{etyl|la|fr}} {{m|la|cura}}.
+
+===Pronunciation===
+* {{IPA|/kyʁ/|lang=fr}}
+
+===Noun===
+{{fr-noun|f}}
+
+# {{label|fr|archaic}} [[care]], [[concern]]
+# {{label|fr|obsolete}} [[healing]], [[recovery]]
+# {{label|fr|medicine}} [[treatment]]; [[#English|cure]]
+# {{label|fr|religion}} [[vicarage]], [[presbytery]]
+
+===Verb===
+{{fr-verb-form}}
+
+# {{inflection of|curer||1|s|pres|indc|lang=fr}}
+# {{inflection of|curer||3|s|pres|indc|lang=fr}}
+# {{inflection of|curer||1|s|pres|subj|lang=fr}}
+# {{inflection of|curer||1|s|pres|subj|lang=fr}}
+# {{inflection of|curer||2|s|impr|lang=fr}}
+
+===Anagrams===
+* [[crue#French|crue]], [[crûe#French|crûe]], [[écru#French|écru]], [[reçu#French|reçu]]
+
+===External links===
+* {{R:TLFi}}
+
+----
+
+==Friulian==
+
+===Etymology===
+From {{etyl|la|fur}} {{m|la|cura}}.
+
+===Noun===
+{{fur-noun|f|pl=curis}}
+
+# [[treatment]]
+# [[cure]]
+
+====Related terms====
+* {{l|fur|curâ}}
+
+----
+
+==Galician==
+
+===Verb===
+{{gl-verb-form}}
+
+# {{inflection of|curar||1|s|pres|subj|lang=gl}}
+# {{inflection of|curar||3|s|pres|subj|lang=gl}}
+
+----
+
+==Italian==
+
+===Noun===
+{{head|it|noun plural form|g=f}}
+
+# {{plural of|cura|lang=it}}
+
+===Anagrams===
+* [[ecru#Italian|ecru]]
+
+----
+
+==Middle French==
+
+===Etymology===
+{{inh|frm|fro|cure}}.
+
+===Noun===
+{{frm-noun|f}}
+
+# [[desire]]
+
+====Descendants====
+* French: {{l|fr|cure}}
+
+----
+
+==Old French==
+
+===Noun===
+{{fro-noun|f}}
+
+# [[medical]] [[attention]]
+# [[worry]]
+# [[desire]]
+
+====Related terms====
+* {{l|fro|curer}}
+
+====Descendants====
+* English: {{l|en|cure}} {{qualifier|borrowed}}
+* French: {{l|fr|cure}}
+
+===References===
+* {{R:Godefroy}}
+
+----
+
+==Portuguese==
+
+===Verb===
+{{pt-verb-form}}
+
+# {{pt-verb-form-of|curar}}
+
+----
+
+==Romanian==
+
+===Etymology===
+From {{etyl|la|ro}} {{m|la|currere}}, present active infinitive of {{m|la|currō}}. Mostly replaced by the modified variant form {{m|ro|curge}}.
+
+===Verb===
+{{ro-verb|conj=3|curge|curs}}
+
+# {{label|ro|archaic}} to [[run]]
+# {{label|ro|archaic}} to [[flow]]
+# {{label|ro|archaic}} to [[drain]]
+
+====Synonyms====
+* {{sense|to run}} [[alerga]], [[fugi]]
+* {{sense|to flow}} [[curge]]
+* {{sense|to drain}} [[scurge]]
+
+====Related terms====
+{{top2}}
+* {{l|ro|curge}}
+* {{l|ro|curând}}
+* {{l|ro|curs}}
+* {{l|ro|cursoare}}
+{{mid2}}
+* {{l|ro|cursură}}
+* {{l|ro|încura}}
+* {{l|ro|scure}}
+{{bottom}}
+----
+
+==Spanish==
+
+===Verb===
+{{es-verb-form}}
+
+# {{es-verb form of|person=first-person|number=singular|tense=present|mood=subjunctive|ending=ar|curar}}
+# {{es-verb form of|person=third-person|number=singular|tense=present|mood=subjunctive|ending=ar|curar}}
+# {{es-verb form of|formal=yes|person=second-person|number=singular|sense=affirmative|mood=imperative|ending=ar|curar}}
+
+[[cs:cure]]
+[[et:cure]]
+[[el:cure]]
+[[es:cure]]
+[[eo:cure]]
+[[fa:cure]]
+[[fr:cure]]
+[[ko:cure]]
+[[hy:cure]]
+[[hr:cure]]
+[[io:cure]]
+[[it:cure]]
+[[kn:cure]]
+[[kk:cure]]
+[[ku:cure]]
+[[lt:cure]]
+[[li:cure]]
+[[hu:cure]]
+[[mg:cure]]
+[[ml:cure]]
+[[my:cure]]
+[[nl:cure]]
+[[ja:cure]]
+[[pl:cure]]
+[[pt:cure]]
+[[ro:cure]]
+[[ru:cure]]
+[[sa:cure]]
+[[scn:cure]]
+[[simple:cure]]
+[[sh:cure]]
+[[fi:cure]]
+[[sv:cure]]
+[[ta:cure]]
+[[te:cure]]
+[[chr:cure]]
+[[tr:cure]]
+[[vi:cure]]
+[[wa:cure]]
+[[zh:cure]]

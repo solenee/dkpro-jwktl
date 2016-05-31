@@ -28,6 +28,7 @@ import de.tudarmstadt.ukp.jwktl.api.util.ILanguage;
 import de.tudarmstadt.ukp.jwktl.api.util.Language;
 import de.tudarmstadt.ukp.jwktl.parser.de.DEWiktionaryEntryParser;
 import de.tudarmstadt.ukp.jwktl.parser.en.ENWiktionaryEntryParser;
+import de.tudarmstadt.ukp.jwktl.parser.fr.FRWiktionaryEntryParser;
 import de.tudarmstadt.ukp.jwktl.parser.ru.RUWiktionaryEntryParser;
 import de.tudarmstadt.ukp.jwktl.parser.util.IDumpInfo;
 
@@ -93,6 +94,9 @@ public class WiktionaryArticleParser extends WiktionaryPageParser<WiktionaryPage
 		} else
 		if (Language.RUSSIAN.equals(language)) {
 			entryParser = new RUWiktionaryEntryParser();
+		}else
+		if (Language.FRENCH.equals(language)) {
+				entryParser = new FRWiktionaryEntryParser(); // XXX SEH Adding French Parser
 		} else 	
 			throw new WiktionaryException("Language " + language 
 					+ " is not supported");

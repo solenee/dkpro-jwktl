@@ -1,0 +1,98 @@
+==Afrikaans==
+
+===Noun===
+{{head|af|noun plural form}}
+
+# {{plural of|atoom|lang=af}}
+
+----
+
+==French==
+
+===Etymology===
+{{etyl|la|fr}} {{m|la|atomus|}}, from {{etyl|grc|fr}} {{m|grc|ἄτομος}}.
+
+===Pronunciation===
+* {{IPA|/a.tɔm/|lang=fr}}
+* {{audio|Fr-atome.ogg|Audio (France, Paris)|lang=fr}}
+* {{homophones|atomes|lang=fr}}
+
+===Noun===
+{{fr-noun|m}}
+
+# {{label|fr|particle}} [[atom]]
+# {{label|fr|very small amount}} [[scrap]], [[jot]], [[iota]], [[whit]]
+
+====Holonyms====
+* [[molécule]]
+* [[élément chimique]]
+
+====Hyponyms====
+* [[ion]]
+* [[isotope]]
+
+====Derived terms====
+{{der-top}}
+* [[atome-gramme]]
+* [[atomique]]
+{{der-mid}}
+* [[atomiser]]
+* [[atomiste]]
+{{der-bottom}}
+
+===External links===
+* {{R:TLFi}}
+
+----
+
+==Latin==
+
+===Noun===
+{{la-noun-form|atome}}
+
+# {{inflection of|atomus||voc|s|lang=la}}
+
+----
+
+==Tarantino==
+
+===Noun===
+{{head|roa-tar|noun}}
+
+# [[atom]]
+
+====Related terms====
+* [[atomiche]]
+
+[[ast:atome]]
+[[cs:atome]]
+[[co:atome]]
+[[da:atome]]
+[[de:atome]]
+[[et:atome]]
+[[el:atome]]
+[[eu:atome]]
+[[fr:atome]]
+[[fy:atome]]
+[[gl:atome]]
+[[ko:atome]]
+[[io:atome]]
+[[id:atome]]
+[[lo:atome]]
+[[lb:atome]]
+[[lt:atome]]
+[[hu:atome]]
+[[mg:atome]]
+[[nl:atome]]
+[[no:atome]]
+[[pl:atome]]
+[[pt:atome]]
+[[ru:atome]]
+[[scn:atome]]
+[[sh:atome]]
+[[fi:atome]]
+[[sv:atome]]
+[[ta:atome]]
+[[tr:atome]]
+[[vi:atome]]
+[[zh:atome]]

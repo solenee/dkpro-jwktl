@@ -1,0 +1,104 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=organum}}, même étymologie que ''[[orgue]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɔʁ.ɡan}}
+'''organe''' {{pron|ɔʁ.ɡan|fr}} {{m}}
+# [[partie|Partie]] d’un [[organisme]] vivant, [[considéré]]e comme un [[tout]] et comme remplissant une [[fonction]] [[nécessaire]] ou [[utile]] à sa [[vie]].
+#* ''« Tous les animaux, écrivait Bichat, sont des assemblages de divers '''organes''' qui, en exécutant chacun sa fonction, concourent, chacun à sa manière, à la conservation du tout. »'' {{source|Dujaric de la Rivière R., 1969. ''Cuvier, sa vie, son œuvre, Pages choisies''. J. Peyronnet (Les maîtres de la biologie) ed., 1 vol., 117 p., p.29.}}
+#* ''Les sulfatages précoces que beaucoup hésitaient à faire avaient pourtant l'avantage d'atteindre tous les '''organes''' de la vigne, notamment les mannes, c'est-à-dire les futurs raisins.'' {{source|Philippe Roudier, ''Vignoble et vignerons du Bordelais (1850-1980)'', p.265, Presses universitaires de Bordeaux, 1994}}
+# {{particulier}} La [[voix]].
+#* '' […], dit La Brière d’une voix douce et mélodieuse qui produisit un soudain contraste avec le ton péremptoire du poète dont l’'''organe''' flexible avait quitté le ton de la câlinerie pour le ton magistral de la Tribune.'' {{source|{{Citation/Honoré de Balzac/Modeste Mignon/1855}}}}
+#* ''Le Carcan rentrait des champs ; il fut mis au courant de l’affaire et bientôt mêla son '''organe''' tonitruant aux glapissements de sa conjointe.'' {{source|{{w|Louis Pergaud}}, ''[[s:Joséphine est enceinte|Joséphine est enceinte]]'', dans ''{{w|Les Rustiques, nouvelles villageoises}}'', 1921}}
+# {{analogie|fr}} Les [[divers]]es [[partie]]s d’une [[machine]].
+#* ''Les organes d’une locomotive.''
+# {{figuré|fr}} Ce dont on se [[servir|sert]] pour [[déclarer]] ses [[volonté]]s, par l’[[entremise]] et par le [[moyen]] de [[quoi]] on fait [[quelque chose]].
+#* ''Le ministère public est l’'''organe''' de l’accusation.''
+# {{analogie|fr}} [[journal|Journal]], [[gazette]] de [[propagande]], toute publication en tant qu'elle est le porte-parole d'une institution ou d'un groupe d'influence.
+
+==== {{S|synonymes}} ====
+* [[partie]]
+* [[composant]], [[élément]]
+
+==== {{S|dérivés}} ====
+* [[organelle]]
+* [[organisme]]
+* [[organite]]
+* [[organique]]
+
+==== {{S|holonymes}} ====
+; ''Partie d’un organisme vivant''
+* [[organisme]]
+* [[corps]]
+
+==== {{S|méronymes}} ====
+; ''Partie d’un organisme vivant''
+* [[cellule]]
+
+==== {{S|traductions}} ====
+{{trad-début|Partie d’un organisme vivant}}
+* {{T|de}} : {{trad+|de|Organ}}
+* {{T|en}} : {{trad+|en|organ}}, {{trad+|en|part}}
+* {{T|ca}} : {{trad+|ca|òrgan}}
+* {{T|da}} : {{trad+|da|organ}}
+* {{T|es}} : {{trad+|es|órgano}} {{m}}
+* {{T|eo}} : {{trad-|eo|organo}}
+* {{T|fo}} : {{trad-|fo|málgagn}}
+* {{T|fi}} : {{trad+|fi|elin}}
+* {{T|gl}} : {{trad+|gl|órgano}} {{m}}, {{trad+|gl|órgano}}
+* {{T|el}} : {{trad+|el|όργανο|R=órgano}} {{n}}
+* {{T|io}} : {{trad+|io|organo}}
+* {{T|ia}} : {{trad-|ia|organo|m}}
+* {{T|it}} : {{trad+|it|organo}}
+* {{T|lt}} : {{trad-|lt|organas}} {{m}}
+* {{T|nl}} : {{trad+|nl|orgaan}}
+* {{T|fa}} : {{trad+|fa|اندام|R=āndām}}
+* {{T|pl}} : {{trad+|pl|narząd}} {{m}}, {{trad+|pl|organ}}
+* {{T|pt}} : {{trad+|pt|organo}}, {{trad+|pt|órgão}}
+* {{T|ro}} : {{trad+|ro|organ}}
+* {{T|ru}} : {{trad+|ru|орган}} {{m}}
+* {{T|se}} : {{trad--|se|orgána}}
+* {{T|sv}} : {{trad+|sv|organ}}
+* {{T|cs}} : {{trad+|cs|orgán}}
+{{trad-fin}}
+
+{{trad-début|Journal, gazette de propagande}}
+* {{T|en}} : {{trad+|en|voice}}
+* {{T|pl}} : {{trad+|pl|organ}}
+* {{T|se}} : {{trad--|se|orgána}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France|ɔʁ.ɡan|audio=Fr-organe.ogg}}
+
+=== {{S|anagrammes}} ===
+* [[Aregno]]
+* [[onagre]]
+* [[orange]], [[orangé]], [[Orange]]
+* [[rongea]]
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+[[chr:organe]]
+[[cs:organe]]
+[[de:organe]]
+[[el:organe]]
+[[en:organe]]
+[[et:organe]]
+[[fi:organe]]
+[[gl:organe]]
+[[hu:organe]]
+[[io:organe]]
+[[ko:organe]]
+[[lt:organe]]
+[[mg:organe]]
+[[oc:organe]]
+[[pl:organe]]
+[[pt:organe]]
+[[roa-rup:organe]]
+[[ru:organe]]
+[[sh:organe]]
+[[tr:organe]]
+[[vi:organe]]

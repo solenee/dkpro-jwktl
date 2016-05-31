@@ -1,0 +1,98 @@
+==French==
+
+===Etymology 1===
+From {{etyl|fro|fr}} {{m|la|glandre}}, from {{etyl|la|fr}} {{m|la|glandula}}, from {{m|la|glāns}}, ''glāndem''.
+
+====Noun====
+{{fr-noun|f}}
+
+# {{label|fr|biology}} [[gland|Gland]].
+# {{label|fr|medicine|non-technical}} [[swollen|Swollen]] [[lymph node]].
+# {{label|fr|medicine|non-technical}} [[tumor|Tumor]], [[growth]].
+
+===Etymology 2===
+Deverbal of {{m|fr|glander}}.
+
+====Noun====
+{{fr-noun|f}}
+# {{label|fr|slang}} [[laze]], [[lazing around]], [[sloth]]
+
+===External links===
+* {{R:TLFi}}
+
+----
+
+==Interlingua==
+
+===Noun===
+{{ia-noun}}
+
+# [[acorn]]
+
+----
+
+==Italian==
+
+===Etymology===
+From {{etyl|la|it}} {{m|la|glāns}}, ''glāndem''.
+
+===Noun===
+{{it-noun|m}}
+
+# [[glans]]
+
+----
+
+==Latin==
+
+===Noun===
+{{la-noun-form|glānde}}
+
+# {{inflection of|glāns||abl|s|lang=la}}
+
+----
+
+==Portuguese==
+
+===Noun===
+{{pt-noun|f}}
+
+# {{l|en|glans}} {{gloss|vascular body on the apex of the penis}}
+
+----
+
+==Spanish==
+{{wikipedia|lang=es}}
+
+===Etymology===
+From {{etyl|la|es}} {{m|la|glāns}}, ''glāndis''.
+
+===Noun===
+{{es-noun|m}}
+
+# {{label|es|anatomy}} [[glans penis]]
+
+[[ast:glande]]
+[[ca:glande]]
+[[cs:glande]]
+[[de:glande]]
+[[el:glande]]
+[[es:glande]]
+[[eo:glande]]
+[[eu:glande]]
+[[fr:glande]]
+[[gl:glande]]
+[[ko:glande]]
+[[io:glande]]
+[[it:glande]]
+[[li:glande]]
+[[hu:glande]]
+[[mg:glande]]
+[[nl:glande]]
+[[pl:glande]]
+[[pt:glande]]
+[[ru:glande]]
+[[fi:glande]]
+[[sv:glande]]
+[[vi:glande]]
+[[zh:glande]]

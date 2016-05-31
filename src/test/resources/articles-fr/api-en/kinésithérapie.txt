@@ -1,0 +1,20 @@
+==French==
+
+===Pronunciation===
+* {{audio|Fr-Paris--kinésithérapie.ogg|Audio (Paris)|lang=fr}}
+
+===Noun===
+{{fr-noun|f|-}}
+
+# [[kinesiotherapy]]
+
+====Related terms====
+* [[kinésithérapeute]]
+* [[kinésithérapique]]
+
+===External links===
+* {{R:TLFi}}
+
+[[el:kinésithérapie]]
+[[fr:kinésithérapie]]
+[[io:kinésithérapie]]

@@ -1,0 +1,45 @@
+{{voir|remission}}
+
+== {{langue|fr}} ==
+
+=== {{S|étymologie}} ===
+:Du {{étyl|la|fr|remissio}}, du participe passé ''{{lien|missus|la}}'' (d’où "missio", acte de mettre), du verbe latin re-mittere (« remettre ») dans le sens de ''pardonner, soulager'', etc.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ʁe.mi.sjɔ̃}}
+'''rémission''' {{pron|ʁe.mi.sjɔ̃|fr}} {{f}}
+# {{théol|fr}} [[pardon|Pardon]].
+#* ''La '''rémission''' des péchés. - Obtenir de Dieu la '''rémission''' de ses péchés.''
+# {{vieilli|fr}} [[grâce|Grâce]] que le [[prince]] faisait à un [[criminel]], en lui [[remettre|remettant]] la [[peine]] qu’il avait [[encourir|encourue]] [[suivant]] les lois.
+#* '' … si demain à minuit je ne suis pas de retour sain et sauf au milieu de vous, à minuit et quart, vous fusillerez les deux prisonniers sans '''rémission''' ; vous m’avez bien compris, n’est-ce pas ? Sans '''rémission'''.'' — {{source|{{Citation/Gustave Aimard/Les Trappeurs de l’Arkansas/1858}}}}
+# {{ellipse|fr}} {{histoire|fr}} {{au pluriel}} [[lettres de rémission|Lettres de rémission]]; [[lettres patentes]] [[expédié]]es en [[chancellerie]] et [[adressé]]es aux [[juge]]s, par [[lesquelles]] le [[roi]] [[accordait]] à un [[criminel]] la '''rémission''' de son [[crime]], en cas que ce qu’il [[exposer|avait exposé]] à sa [[décharge]] se [[trouvât]] [[vrai]].
+#* ''On a scellé sa '''rémission'''.''
+# {{par ext|fr}} [[adoucissement|Adoucissement]], [[miséricorde]], [[indulgence]] dont [[user|use]] une personne qui a [[droit]], [[autorité]] ou [[avantage]] sur une [[autre]].
+#* ''Ne t’avons-nous pas déjà accordé un plein pardon de toutes tes fautes ? […] Tu n’as pas eu le temps de commettre une nouvelle offense depuis cette '''rémission'''.'' {{source|{{Citation/Walter Scott/Ivanhoé/1820}}}}
+# [[détente|Détente]].
+#* ''Sa haine n’a pas de '''rémission'''. - Le premier effet de l’anesthésie est la '''rémission''' musculaire.''
+# {{médecine|fr}} [[diminution|Diminution]], [[relâchement]], [[parler|en parlant]] de la [[fièvre]], des [[maladie]]s [[aigu]]ës, [[lorsqu’]]elles [[perdre|perdent]] de [[leur]] [[force]], de leur [[intensité]].
+#* ''Il y a un peu de '''rémission''' dans sa fièvre. La maladie est en '''rémission'''. - Il y a une '''rémission''' sensible dans le pouls.''
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|en}} : {{trad+|en|remission}} (1, 2, 3, 4, 5)
+* {{T|io}} : {{trad+|io|remiso}}
+* {{T|id}} : {{trad+|id|ampun}}
+* {{T|it}} : {{trad+|it|remissione}}
+* {{T|nl}} : {{trad+|nl|remissie}}
+* {{T|pl}} : {{trad+|pl|przebaczenie|n}}, {{trad+|pl|odpuszczenie|n}}
+{{trad-fin}}
+
+=== {{S|références}} ===
+*{{Import:DAF8}}
+
+{{clé de tri|remission}}
+
+[[el:rémission]]
+[[en:rémission]]
+[[et:rémission]]
+[[fi:rémission]]
+[[io:rémission]]
+[[ko:rémission]]
+[[vi:rémission]]

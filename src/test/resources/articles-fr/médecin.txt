@@ -1,0 +1,205 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|medicinus}}.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|med.sɛ̃|pron2=mɛd.sɛ̃}}
+'''médecin''' {{pron|med.sɛ̃|fr}} ou {{pron|mɛd.sɛ̃|fr}} {{m}} — {{note}} Pour marquer le féminin, l'on emploie le terme ''[[femme-médecin]]'' ; il existait jadis le terme ''[[médecienne]]''.
+# Personne qui a un [[diplôme]] de [[docteur]] en [[médecine]]. [[professionnel|Professionnel]] de [[santé]] chargé de [[guérir]] et [[soigner]] les [[maladie]]s, les [[pathologie]]s, les [[blessure]]s, etc.
+#*''D’ailleurs la médecine, surtout comme la plupart des '''médecins''' la pratiquent aujourd’hui, n’est qu’une espèce de flatterie; et, à cet égard, on peut dire qu’elle ne ressemble pas mal à la rhétorique.'' {{source|Érasme, ''Éloge de la folie'', 1509, traduction de Thibault de Laveaux, 1780}}
+#*''L’Office départemental d’hygiène sociale, […], dispose de dix '''médecins''' et de vingt-huit infirmières visiteuses, toujours sur la brèche.'' {{source|{{Citation/Ludovic Naudeau/La France se regarde/1931}}}}
+#*''Privé de ce casuel, il ne nous serait plus possible d’indemniser notre '''médecin'''. Conséquence: plus de soins gratuits aux indigents.'' {{source|{{Citation/Jean Rogissart/Passantes d’Octobre/1958}}}}
+#* ''Mais on dérape très vite, le '''médecin''' est aussi fou que ses patients, les infirmières sont déchaînées, l'atmosphère vire au pandémonium morbide et sexué.'' {{source|''« Kill Me Please », une tendresse gore'', dans ''[[w:Marianne (magazine)|Marianne]]'', n° 707 du 6 novembre 2010, page 84}}
+#* {{term|Par apposition}} — '' En 1495, on cite une vieille médecienne. Il faut faire appeler la « vieille médecienne et lui demander, en présence des médecins, ce qu'elle a donné à la femme (malade). Nous voyons donc que les femmes-'''médecins''' étaient répandues en Allemagne.'' {{source|Mélina Lipinska, ''Les femmes et le progrès des sciences médicales'', Masson, 1930, p.44}}
+# {{part}} Dans l'armée française, premier [[grade]] militaire conféré aux médecins diplômés officiers du Corps de Santé des Armées, à l'issue de leur internat.
+# [[remède#fr|Remède]], ce qui soigne.
+#*''Le régime et l’exercice sont d’excellents '''médecins'''.''
+# [[guérisseur#fr|Guérisseur]].
+#*''En certains cas, le '''médecin''' de l’âme est plus nécessaire que le '''médecin''' du corps.''
+#*''Le temps est un grand '''médecin'''.''
+
+==== {{S|synonymes}} ====
+: ''Personne soignant les maladies'' :
+* [[docteur]]
+* [[praticien]]
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[médecin-conseil]]
+* [[médecin de famille]]
+* [[médecin de ville]]
+* [[médecin des armées]]
+* [[médecin du travail]]
+* [[médecin hospitalier]]
+* [[médecin légiste]]
+* [[médecin libéral]]
+* [[médecin référent]]
+* [[médecin traitant]]
+* [[médecin vétérinaire]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[médecin, guéris-toi toi-même}] ''(tu donnes des conseils alors que tu aurais besoin d’en recevoir)''
+
+==== {{S|vocabulaire}} ====
+* [[médecine]]
+* [[santé]]
+* [[maladie]]
+
+==== {{S|traductions}} ====
+{{trad-début|Personne soignant les maladies}}
+* {{T|af}} : {{trad-|af|dokter}}, {{trad-|af|arts}}
+* {{T|sq}} : {{trad+|sq|mjek}}
+* {{T|de}} : {{trad+|de|Arzt}}, {{trad+|de|Doktor}}
+* {{T|en}} : {{trad+|en|doctor}}, {{trad+|en|physician}}
+* {{T|ar}} : {{trad+|ar|طبيب|tr=tabib}}
+* {{T|ary}} : {{trad--|ary|طبيب|R=tbib}}
+* {{T|hy}} : {{trad+|hy|բժիշկ|tr=bžišk}}
+* {{T|az}} : {{trad+|az|həkim}}, {{trad+|az|doktor}}
+* {{T|ba}} : {{trad--|ba|табип}}
+* {{T|eu}} : {{trad+|eu|sendagile}}
+* {{T|be}} : {{trad-|be|лекар|tr=lekar}}
+* {{T|br}} : {{trad-|br|doktor}}, {{trad-|br|medesin}}
+* {{T|bg}} : {{trad+|bg|доктор}}, {{trad+|bg|лекар|tr=lekar}}
+* {{T|ca}} : {{trad+|ca|metge}}, {{trad+|ca|doctor}}
+* {{T|zh}} : {{trad+|zh|医生|R=yīshēng|tradi=醫生}}
+* {{T|ko}} : {{trad+|ko|의사|tr=uisa}}
+* {{T|co}} : {{trad-|co|mèdicu}}, {{trad+|co|duttore}}
+* {{T|crk}} : {{trad--|crk|maskihkîwiyiniw}}
+* {{T|hr}} : {{trad+|hr|liječnik}}, {{trad+|hr|lekar}}
+* {{T|da}} : {{trad+|da|læge}}
+* {{T|es}} : {{trad+|es|doctor}}, {{trad+|es|médico}}
+* {{T|eo}} : {{trad+|eo|kuracisto}}
+* {{T|et}} : {{trad+|et|arst}}
+* {{T|ee}} : {{trad--|ee|atikewɔla}}, {{trad--|ee|ɖɔkta}}
+* {{T|fo}} : {{trad-|fo|lækni}}
+* {{T|fi}} : {{trad+|fi|lääkäri}}
+* {{T|fy}} : {{trad+|fy|dokter}}
+* {{T|gd}} : {{trad-|gd|lighiche}}, {{trad-|gd|lèigh}}
+* {{T|ga}} : {{trad+|ga|dochtúir}}
+* {{T|gl}} : {{trad+|gl|médico}}, {{trad-|gl|doutor}}
+* {{T|cy}} : {{trad+|cy|meddyg}}
+* {{T|ka}} : {{trad-|ka|ექიმი|tr=ekimi}}
+* {{T|el}} : {{trad+|el|γιατρός}} (giatrós)
+* {{T|he}} : {{trad+|he|רופא|m|tr=rofe}}
+* {{T|hi}} : {{trad-|hi|डाक्टर|tr=ḍākṭar}}
+* {{T|hu}} : {{trad+|hu|orvos}}
+* {{T|io}} : {{trad+|io|mediko}}
+* {{T|id}} : {{trad+|id|dokter}}
+* {{T|iu}} : {{trad-|iu|ᓘᒃᑖᖅ|R=[[luuktaaq]]}}, {{trad-|iu|ᓘᑦᑖᖅ|R=[[luuttaaq]]}}
+* {{T|is}} : {{trad+|is|læknir}}
+* {{T|it}} : {{trad+|it|medico}}
+* {{T|ja}} : {{trad+|ja|医者|R=isha}}, {{trad+|ja|医師|R=ishi}}
+* {{T|kk}} : {{trad-|kk|дәрігер|tr=däriger}}
+* {{T|rn}} : {{trad--|rn|umuganga}}
+* {{T|fsl}} : [http://www.wiksign.org/lsf/Médecin médecin]
+* {{T|la}} : {{trad-|la|clinicus}}, {{trad+|la|medicus}}
+* {{T|lv}} : {{trad-|lv|ārsts}}
+* {{T|lt}} : {{trad+|lt|daktaras}}
+* {{T|lb}} : {{trad+|lb|Dokter}}
+* {{T|mk}} : {{trad-|mk|лекар|tr=lekar}}
+* {{T|ms}} : {{trad+|ms|tabib}}, {{trad+|ms|doktor}}
+* {{T|mt}} : {{trad-|mt|tabib}}
+* {{T|yua}} : {{trad--|yua|ts’ats’aak}}
+* {{T|nl}} : {{trad+|nl|arts}}, {{trad+|nl|dokter}}, {{trad+|nl|geneesheer}}, {{trad+|nl|medicus}}
+* {{T|aii}} : {{trad--|aii|həkkim}}
+* {{T|no}} : {{trad+|no|dokter}}, {{trad+|no|læge}}
+* {{T|oc}} : {{trad+|oc|mètge}}
+* {{T|ur}} : {{trad-|ur|ڈاکٹر}}
+* {{T|uz}} : {{trad+|uz|tabib}}, {{trad+|uz|doktor}}
+* {{T|pap}} : {{trad--|pap|dòkter}}, {{trad--|pap|dòkto}}
+* {{T|fa}} : {{trad+|fa|پزشک}}, {{trad+|fa|دکتر}}, {{trad+|fa|طبیب}}
+* {{T|pl}} : {{trad+|pl|lekarz}}
+* {{T|pt}} : {{trad-|pt|facultativo}}, {{trad+|pt|médico}}
+* {{T|ro}} : {{trad+|ro|doctor}}, {{trad+|ro|medic}}
+* {{T|ru}} : {{trad+|ru|врач}}, {{trad+|ru|доктор}}
+* {{T|se}} : {{trad--|se|doavttir}}
+* {{T|sr}} : {{trad-|sr|лекар|tr=lekar}}
+* {{T|zdj}} : {{trad--|zdj|twaɓiɓu}}, {{trad--|zdj|duktera}}
+* {{T|sk}} : {{trad-|sk|lekár}}
+* {{T|sl}} : {{trad+|sl|zdravnik}}
+* {{T|srn}} : {{trad--|srn|datra}}
+* {{T|sv}} : {{trad+|sv|doktor}}, {{trad+|sv|läkare}}
+* {{T|sw}} : {{trad+|sw|daktari}}, {{trad+|sw|mganga}}
+* {{T|tg}} : {{trad-|tg|пизишк|tr=pizišk}}, {{trad-|tg|табиб|tr=tabib}}
+* {{T|tt}} : {{trad+|tt|табиб}}
+* {{T|cs}} : {{trad+|cs|lékař}}
+* {{T|th}} : {{trad+|th|หมอ|tr=mŏr}}, {{trad+|th|แพทย์|tr=pàet}}
+* {{T|tyv}} : {{trad--|tyv|эмчи}}
+* {{T|tr}} : {{trad+|tr|doktor}}, {{trad+|tr|hekim}}
+* {{T|tk}} : {{trad-|tk|hekim}}
+* {{T|uk}} : {{trad+|uk|лікар|tr=likar}}
+* {{T|uum}} : {{trad--|uum|фершал}}
+* {{T|vi}} : {{trad+|vi|bác sĩ}}
+* {{T|cu}} : {{trad--|cu|врачь|m}}
+* {{T|zu}} : {{trad-|zu|udokotela}}
+{{trad-fin}}
+
+==== {{S|hyperonymes}} ====
+* [[métier]]
+* [[profession]]
+* [[santé]]
+
+==== {{S|hyponymes}} ====
+* [[médecin légiste]]
+* [[médecin traitant]]
+* [[médecin-conseil]]
+* [[médecin des armées]]
+* [[médecin du travail]]
+* [[médecin de famille]]
+* [[médecin légiste]]
+* [[médecin libéral]]
+* [[médecin hospitalier]]
+* [[médecin référent]]
+* [[phoniatre]]
+
+=== {{S|prononciation}} ===
+* {{pron|med.sɛ̃|fr}} ou {{pron|mɛd.sɛ̃|fr}}
+* {{écouter|lang=fr|France (Paris)|œ̃ mɛd.sɛ̃|audio=Fr-médecin.ogg}}
+* {{écouter|lang=fr|Québec|med.sẽ}}
+
+=== {{S|anagrammes}} ===
+* [[cnémide]]
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+{{clé de tri|medecin}}
+
+[[Catégorie:Métiers de la santé en français]]
+
+[[az:médecin]]
+[[chr:médecin]]
+[[cs:médecin]]
+[[da:médecin]]
+[[de:médecin]]
+[[el:médecin]]
+[[en:médecin]]
+[[es:médecin]]
+[[et:médecin]]
+[[fi:médecin]]
+[[fj:médecin]]
+[[fy:médecin]]
+[[gl:médecin]]
+[[hu:médecin]]
+[[id:médecin]]
+[[io:médecin]]
+[[ja:médecin]]
+[[ko:médecin]]
+[[ku:médecin]]
+[[li:médecin]]
+[[lo:médecin]]
+[[mg:médecin]]
+[[nl:médecin]]
+[[no:médecin]]
+[[pl:médecin]]
+[[ro:médecin]]
+[[ru:médecin]]
+[[sk:médecin]]
+[[sm:médecin]]
+[[sv:médecin]]
+[[uz:médecin]]
+[[vi:médecin]]

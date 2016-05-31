@@ -1,0 +1,647 @@
+{{also|Sport|SPORT|spórt|šport}}
+==English==
+{{wikipedia}}
+
+===Etymology===
+From {{etyl|enm|en}} {{m|enm|sporten|pos=verb}} and {{m|enm|sport}}, {{m|enm|spoort}}, {{m|enm|sporte|pos=noun}}, apheretic shortenings of {{etyl|enm|en}} {{m|enm|disporten|pos=verb}} and {{m|enm|disport}}, {{m|enm|disporte|pos=noun}}. More at {{l|en|disport}}.
+
+===Pronunciation===
+* {{a|GenAm}} {{IPA|/spɔɹt/|lang=en}}
+* {{a|RP}} {{IPA|/spɔːt/|lang=en}}
+* {{a|Tasmanian}} {{IPA|/spɔː/|lang=en}}
+* {{a|rhotic|horse-hoarse}} {{IPA|/spo(ː)ɹt/|lang=en}}
+* {{a|nonrhotic|horse-hoarse}} {{IPA|/spoət/|lang=en}}
+* {{audio|en-us-sport.ogg|Audio (US)|lang=en}}
+* {{rhymes|ɔː(ɹ)t|lang=en}}
+
+===Noun===
+{{en-noun|~}}
+
+# {{label|en|countable}} Any activity that uses physical exertion or skills [[competitively]] under a set of rules that is not based on aesthetics.
+# {{label|en|countable}} A person who exhibits either good or bad [[sportsmanship]].
+#* ''Jen may have won, but she was sure a poor '''sport'''; she laughed at the loser.''
+#* ''The loser was a good '''sport''', and congratulated Jen on her performance.''
+# {{label|en|countable}} Somebody who behaves or reacts in an admirable manner, a [[good sport]].
+#* ''You're such a '''sport'''! You never get upset when we tease you.''
+# {{label|en|obsolete}} That which diverts, and makes mirth; pastime; amusement.
+#* Shakespeare
+#*: Think it but a minute spent in '''sport'''.
+#* Sir Philip Sidney
+#*: Her '''sports''' were such as carried riches of knowledge upon the stream of delight.
+#* ''Hey Diddle Diddle'' (traditional rhyme)
+#*: The little dog laughed to see such '''sport''', and the dish ran away with the spoon.
+# {{label|en|obsolete}} Mockery; derision.
+#* Shakespeare
+#*: Then make '''sport''' at me; then let me be your jest.
+# {{label|en|countable}} A toy; a plaything; an object of mockery.
+#* Dryden
+#*: flitting leaves, the '''sport''' of every wind
+#* John Clarke
+#*: Never does man appear to greater disadvantage than when he is the '''sport''' of his own ungoverned passions.
+# {{label|en|uncountable}} Gaming for money as in racing, hunting, fishing.
+# {{label|en|biology|botany|zoology|countable}} A plant or an animal, or part of a plant or animal, which has some peculiarity not usually seen in the species; an abnormal variety or growth. The term encompasses both [[mutant]]s and organisms with non-genetic developmental abnormalities such as [[birth defect]]s.
+#* {{quote-journal|author=Charles Quest-Ritson|title=The Dutch garden where tulip bulbs live forever: Hortus Bulborum, a volunteer-run Dutch garden, is dedicated to conserving historic varieties before they vanish for good &#91;print version: Inspired by a living bulb archive, 27 September 2014, p.&nbsp;G5&#93;|url=http://www.telegraph.co.uk/gardening/gardenstovisit/11121226/The-Dutch-garden-where-tulip-bulbs-live-forever.html|work={{w|The Daily Telegraph}} (Gardening)|date=26 September 2014|passage=At Hortus Bulborum you will find heirloom narcissi that date back at least to the 15th century and famous old tulips like 'Duc van Tol' (1595) and its '''sports'''.}}
+# {{label|en|slang|countable}} A [[sportsman]]; a gambler.
+# {{label|en|slang|countable}} One who consorts with disreputable people, including prostitutes.
+# {{label|en|obsolete|uncountable}} An amorous [[dalliance]].
+#* ''Charlie and Lisa enjoyed a bit of '''sport''' after their hike.''
+# {{label|en|informal|usually singular}} A [[friend]] or [[acquaintance]] ''(chiefly used when speaking to the friend in question)''
+#* {{quote-magazine
+|date=
+|year=1924
+|month=July
+|first=
+|last=
+|author=Ellis Butler
+|coauthors=
+|title=The Little Tin Godlets
+|volume=25
+|issue=1
+|page=14
+|magazine=The Rotarian
+|publisher=Rotary International
+|issn=
+|url=http://books.google.com/books?id=Q0QEAAAAMBAJ&pg=PA14&dq=luna+-moth+moon+-lunar&hl=en&sa=X&ei=fLp7T5jnL8vUiAKmg4hk&ved=0CD0Q6AEwAjha#v=onepage&q=luna%20-moth%20moon%20-lunar&f=false
+|passage="Say, '''sport'''!" he would say briskly.}}
+# {{label|en|obsolete}} Play; idle jingle.
+#* Broome
+#*: An author who should introduce such a '''sport''' of words upon our stage would meet with small applause.
+
+====Derived terms====
+{{top2}}
+* [[air sport]]
+* {{l|en|ask me one on sport}}
+* {{l|en|autosport}}
+* [[blood sport]]
+* {{l|en|boardsport}}
+* [[combat sport]]
+* [[contact sport]]
+* [[cue sport]], {{l|en|cuesport}}
+* {{l|en|dancesport}}
+* [[extreme sport]]
+* [[flying sport]]
+* [[good sport]]
+* [[individual sport]]
+* [[mind sport]]
+* [[motorsport]]
+* {{l|en|multisport}}
+* {{l|en|nonsport}}
+* [[old sport]]
+* [[poor sport]]
+* [[professional sport]]
+{{mid2}}
+* {{l|en|radiosport}}
+* [[spectator sport]]
+* [[spoilsport]]
+* {{l|en|sport fish}}, {{l|en|sportfish}}
+* [[sport jacket]]
+* [[sport stacking]]
+* [[sport utility vehicle]]
+* {{l|en|sportfishing}}
+* {{l|en|sportful}}
+* {{l|en|sporting}}
+* {{l|en|sportive}}
+* {{l|en|sportless}}
+* {{l|en|sportlike}}
+* [[sportsman]]
+* [[sportsmanship]]
+* {{l|en|sportswoman}}
+* [[team sport]]
+* [[watersport]]
+* [[wheelchair sport]]
+* [[winter sport]]
+{{bottom}}
+
+====Translations====
+{{trans-top|any athletic activity that uses physical skills}}
+* Afrikaans: {{t|af|sport}}
+* Albanian: {{t+|sq|sport}}
+* Amharic: {{t|am|ስፖርት|sc=Ethi}}
+* Arabic: {{t|ar|رِيَاضَة|f}}
+* Aragonese: {{t|an|esporte|m}}
+* Armenian: {{t+|hy|սպորտ}}
+* Asturian: {{t|ast|deporte|m}}
+* Azeri: {{t+|az|idman}}
+* Bashkir: {{t|ba|спорт|tr=sport|sc=Cyrl}}
+* Basque: {{t+|eu|kirol}}
+* Belarusian: {{t+|be|спорт|m|tr=sport}}
+* Bengali: {{t+|bn|ক্রীড়া|tr=kriŗa|sc=Beng}}
+* Berber:
+*: Tashelhit: {{t-check|shi|tunnunt|f}}
+* Bulgarian: {{t+|bg|спорт}}
+* Burmese: {{t+|my|အားကစား|tr=a ga za:|sc=Mymr}}
+* Catalan: {{t+|ca|esport|m}}, {{t+|ca|deport|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|運動|sc=Hani}}, {{t+|cmn|运动|tr=yùndòng|sc=Hani}}
+* Czech: {{t+|cs|sport|m}}
+* Danish: {{t+|da|sport}}
+* Dutch: {{t+|nl|sport|m}}
+* Esperanto: {{t|eo|sporto}}
+* Estonian: {{t+|et|sport}}
+* Extremaduran: {{t|ext|deporti|m}}
+* Finnish: {{t+|fi|urheilulaji}}, {{t|fi|kilpailulaji}}
+* French: {{t+|fr|sport|m}}
+* Galician: {{t+|gl|deporte|m}}
+* Georgian: {{t+|ka|სპორტი}}
+* German: {{t+|de|Sport|m}}
+* Greek: {{t+|el|άθλημα|n}}
+*: Ancient: {{t|grc|ἄθλημα|n}}, {{t|grc|ἀγών|m}}
+* Haitian Creole: {{t|ht|espò}}
+* Hebrew: {{t+|he|ספורט|tr=sport}}
+* Hindi: {{t|hi|वर्ज़िश|f|tr=varziś|sc=Deva}}, {{t+|hi|खेल|m|tr=khel|sc=Deva}}, {{t|hi|खेल-कूद|m|tr=khel-kūd|sc=Deva}}
+* Hungarian: {{t+|hu|sport}}
+* Icelandic: {{t+|is|íþrótt|f}}
+* Ido: {{t+|io|sporto}}
+* Indonesian: {{t+|id|olah raga}}, {{t+|id|olahraga}}
+* Interlingue: {{t|ie|sport}}
+* Italian: {{t+|it|sport|m}}
+* Japanese: {{t+|ja|運動|tr=うんどう, undō|sc=Jpan}}, {{t+|ja|スポーツ|tr=supōtsu|sc=Jpan}}
+* Kannada: {{t+|kn|ಕ್ರೀಡೆಗಳು|tr=krīḍegaḷu|sc=Knda}}
+* Kazakh: {{t|kk|спорт|tr=sport|sc=Cyrl}}
+* Khmer: {{t+|km|កីឡា|tr=keila|sc=Khmr}}
+* Korean: {{t+|ko|스포츠|sc=Kore}}
+{{trans-mid}}
+* Kurdish:
+*: Sorani: {{t|ku|وه‌رزش|tr=warzish|?}}
+* Kyrgyz: {{t+|ky|спорт|tr=sport|sc=Cyrl}}
+* Lao: {{t+|lo|ກິລາ|tr=ki lā|sc=Laoo}}
+* Latvian: {{t|lv|sports|m}}
+* Lithuanian: {{t+|lt|sportas|m}}
+* Macedonian: {{t|mk|спорт|m|tr=spórt}}
+* Malay: {{t+|ms|sukan}}
+* Malayalam: {{t|ml|കായികവിനോദം|tr=kāyikavinēādaṁ|sc=Mlym}}
+* Maltese: {{t|mt|sport|m}}
+* Mongolian: {{t+|mn|спорт|tr=sport|sc=Cyrl}}
+* Nepali: {{t|ne|खेल|tr=khel|sc=Deva}}
+* Norwegian:
+*: Bokmål: {{t+|nb|sport}}
+*: Nynorsk: {{t|nn|idrett}}
+* Persian: {{t+|fa|ورزش|tr=varzeš|sc=fa-Arab}}
+* Polish: {{t+|pl|sport|m}}
+* Portuguese: {{qualifier|Brazil}} {{t+|pt|esporte|m}}, {{qualifier|Portugal}} {{t+|pt|desporto|m}}
+* Romanian: {{t+|ro|sport|n}}
+* Russian: {{t+|ru|спорт|m}}
+* Scottish Gaelic: {{t|gd|spòrs|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|спорт|m}}, {{t|sh|шпорт|m}}
+*: Roman: {{t+|sh|sport|m}}, {{t+|sh|šport|m}}
+* Sinhalese: {{t+|si|ක්‍රීඩා|tr=k‍rīḍā|sc=Sinh}}
+* Slovak: {{t+|sk|šport|m}}
+* Slovene: {{t+|sl|šport|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|sport|m}}
+* Spanish: {{t+|es|deporte|m}}
+* Swahili: {{t+|sw|spoti}}
+* Swedish: {{t+|sv|sport|c}}, {{t+|sv|idrott|c}}
+* Tagalog: {{t|tl|palakasan}}
+* Tajik: {{t+|tg|варзиш|tr=varziš|sc=Cyrl}}
+* Tamil: {{t+|ta|விளையாட்டு|tr=viḷaiyāṭṭu|sc=Taml}}
+* Tatar: {{t|tt|спорт|tr=sport|sc=Cyrl}}
+* Telugu: {{t+|te|ఆటలు|tr=āṭalu|sc=Telu}}
+* Thai: {{t|th|สปอร์ต|tr=sabpòt|sc=Thai}}
+* Turkish: {{t+|tr|spor}}
+* Turkmen: {{t|tk|sport}}
+* Ukrainian: {{t|uk|спорт|m|tr=sport}}
+* Urdu: {{t+|ur|ورزش|f|tr=varziś|sc=ur-Arab}}, {{t|ur|کھیل|m|tr=khel|sc=ur-Arab}}
+* Uzbek: {{t+|uz|sport}}
+* Vietnamese: {{t+|vi|thể thao}}
+* Volapük: {{t+|vo|spot}}
+{{trans-bottom}}
+
+{{trans-top|person who exhibits either good or bad sportsmanship}}
+* Finnish: {{t+|fi|urheilija}}
+* German: {{t+|de|Sportsmann|m}}, {{t|de|Sportsfrau|f}}
+* Hungarian: {{t+|hu|sportember}}
+* Maltese: {{t|mt|sportiv|m}}
+{{trans-mid}}
+* Slovene: {{t+|sl|športnik|m}}, {{t|sl|športnik/ športnca|m|f}}
+* Spanish: {{t+|es|deportista|m|f}}
+* Swahili: {{t+|sw|spoti}}
+{{trans-bottom}}
+
+{{trans-top|somebody who behaves or reacts in an admirable manner}}
+* Finnish: {{t|fi|[[ihailtava]] [[ihminen]]}}, {{t|fi|kova tyyppi}}
+* Hungarian: {{t+|hu|sportember}}
+{{trans-mid}}
+* Swahili: {{t+|sw|spoti}}
+{{trans-bottom}}
+
+{{trans-top|toy}}
+* Finnish: {{t+|fi|leikkikalu}}
+* Spanish: {{t+|es|juguete|m}}, {{t+|es|burla|f}}
+{{trans-mid}}
+* Swahili: {{t+|sw|spoti}}
+{{trans-bottom}}
+
+{{trans-top|gaming for money as in racing, hunting, fishing}}
+* Finnish: {{t+|fi|pelaaminen}}, {{t+|fi|uhkapeli}}
+{{trans-mid}}
+* Swahili: {{t+|sw|spoti}}
+{{trans-bottom}}
+
+{{trans-top|abnormal plant or animal}}
+* Finnish: {{t|fi|epämuodostuma}}
+* Spanish: {{t+|es|espécimen}} [[raro#Spanish|raro]] {{g|m}}
+{{trans-mid}}
+* Swahili: {{t+|sw|spoti}}
+{{trans-bottom}}
+
+{{trans-top|slang: sportsman; gambler}}
+* Finnish: {{t+|fi|pelimies}}
+{{trans-mid}}
+* Swahili: {{t+|sw|spoti}}
+{{trans-bottom}}
+
+{{trans-top|amorous dalliance}}
+* Finnish: {{t|fi|teerenpeli}}
+* French: {{t+|fr|flirt|m|f}}
+{{trans-mid}}
+* Spanish: {{t+|es|aventura|f}}
+* Swahili: {{t+|sw|spoti}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{label|en|intransitive}} To amuse oneself, to [[play]].
+#: {{ux|en|children '''sporting''' on the green}}
+# {{label|en|intransitive}} To mock or tease, treat lightly, toy with.
+#: {{ux|en|Jen '''sports''' with Bill's emotions.}}
+#* Tillotson
+#*: He '''sports''' with his own life.
+# {{label|en|transitive}} To [[display]]; to have as a notable [[feature]].
+#* {{quote-magazine|date=2013-07-20|volume=408|issue=8845|magazine={{w|The Economist}}
+|title=[http://www.economist.com/news/science-and-technology/21581981-what-pollution-some-opportunity-others-welcome-plastisphere Welcome to the plastisphere]
+|passage=[The researchers] noticed many of their pieces of [plastic marine] debris '''sported''' surface pits around two microns across. Such pits are about the size of a bacterial cell. Closer examination showed that some of these pits did, indeed, contain bacteria,&nbsp;[&hellip;].}}
+#: {{ux|en|Jen's '''sporting''' a new pair of shoes;&nbsp; he was '''sporting''' a new wound from the combat}}
+# {{label|en|reflexive}} To [[divert]]; to [[amuse]]; to [[make merry]].
+#* Bible, Isa. lvii. 4
+#*: Against whom do ye '''sport''' yourselves?
+# {{label|en|transitive}} To represent by any kind of play.
+#* {{w|John Dryden}}
+#*: Now '''sporting''' on thy lyre the loves of youth.
+# To practise the diversions of the field or the turf; to be given to betting, as upon races.
+# To assume suddenly a new and different character from the rest of the [[plant]] or from the type of the [[species]]; said of a bud, shoot, plant, or animal.
+#: {{rfquotek|Darwin}}
+# {{label|en|transitive}} To close (a door).
+#* {{w|M. R. James}}
+#*: There he locked it up in a drawer, '''sported''' the doors of both sets of rooms, and retired to bed.
+
+====Translations====
+{{trans-top|amuse oneself}}
+* Finnish: {{t+|fi|leikkiä}}, {{t+|fi|kisailla}}
+* French: {{t+|fr|jouer}}
+{{trans-mid}}
+* German: {{t+|de|spielen}}, {{t|de|sich vergnügen}}, {{t|de|herumtollen}}
+* Persian: {{t+|fa|سرگرمي}}
+* Scottish Gaelic: {{t|gd|sùgair}}
+{{trans-bottom}}
+
+{{trans-top|mock or tease}}
+* Finnish: {{t+|fi|leikkiä}}
+* French: {{t+|fr|taquiner}}, {{t+|fr|moquer}}
+{{trans-mid}}
+* German: {{t|de|herumspielen}}, {{t|de|Spott treiben}}
+* Spanish: {{t+|es|jugar}}, {{t+|es|burlarse}}
+{{trans-bottom}}
+
+{{trans-top|display, have as feature}}
+* Czech: {{t|cs|předvádět}}, {{t+|cs|ukazovat}}
+* German: {{t+|de|tragen}}, {{t+|de|präsentieren}}, {{t|de|zur Schau stellen}}, {{t|de|angeben mit}}, {{t|de|protzen mit}}
+* Persian: {{t+|fa|ورزش}}
+{{trans-mid}}
+* Spanish: {{t+|es|mostrar}}, {{t+|es|llevar}}
+* Swedish: {{t+|sv|sporta}}, {{t|sv|visa upp}}
+{{trans-bottom}}
+
+===Anagrams===
+* [[ports]]
+* [[strop]]
+
+[[Category:1000 English basic words]]
+
+----
+
+==Czech==
+
+===Noun===
+{{cs-noun|g=m}}
+
+# {{l|en|sport}}
+
+====Declension====
+{{cs-decl-noun
+|sport|sportu|sportu|sport|sporte|sportu|sportem
+|sporty|sportů|sportům|sporty|sporty|sportech|sporty
+}}
+
+====Derived terms====
+* [[profesionální sport]] {{g|m}}
+* [[rekreační sport]] {{g|m}}
+* [[vrcholový sport]] {{g|m}}
+
+====Related terms====
+* [[sportovat]]
+* [[sportovec]] {{g|m}}
+
+===External links===
+* {{R:PSJC}}
+* {{R:SSJC}}
+
+----
+
+==Dutch==
+
+===Pronunciation===
+* {{IPA|/spɔrt/|lang=nl}}
+* {{audio|Nl-sport.ogg|Audio|lang=nl}}
+
+===Noun===
+{{nl-noun|f|-en|sportje}}
+
+# [[sport#English|sport]]
+# [[step]] on a [[ladder]]
+
+====Derived terms====
+* [[duiksport]]
+* [[klimsport]]
+* [[sportvereniging]]
+
+===Verb===
+{{nl-verb-form}}
+
+# {{nl-verb form of|p=123|n=sg|t=pres|m=ind|sporten}}
+# {{nl-verb form of|m=imp|sporten}}
+
+===Anagrams===
+* [[sprot#Dutch|sprot]], [[strop#Dutch|strop]]
+
+----
+
+==French==
+
+===Etymology===
+From {{etyl|en|fr}} {{m|en|sport}}
+
+===Pronunciation===
+* {{IPA|/spɔʁ/|lang=fr}}
+* {{audio|Fr-sport.ogg|Audio|lang=fr}}
+
+===Noun===
+{{fr-noun|m}}
+
+# {{l|en|sport}}
+
+====Derived terms====
+* [[omnisports]]
+* [[sport d'hiver]]
+* [[sportif#French|sportif]], [[sportive#French|sportive]]
+* [[sportivité]]
+
+===External links===
+* {{R:TLFi}}
+
+[[Category:fr:Sports]]
+
+----
+
+==Hungarian==
+
+===Pronunciation===
+* {{hu-IPA}}
+
+===Noun===
+{{hu-noun|ok}}
+
+# {{l|en|sport}}
+
+====Declension====
+{{hu-decl-ok|spor|t|ot}}{{hu-pos-otok|sport|j|jai}}
+
+====Derived terms====
+* [[sportol]]
+* [[sportoló]]
+* [[sportos]]
+* [[sportszerű]]
+{{qualifier|Compound words}}:
+* [[lovassport]]
+* [[sportág]]
+* [[sportdiplomácia]]
+* [[sportember]]
+* [[sportesemény]]
+* [[sporthír]]
+* [[sportlétesítmény]]
+* [[sportminisztérium]]
+* [[sportpálya]]
+* [[sportújság]]
+
+[[Category:hu:Sports]]
+
+----
+
+==Interlingue==
+
+===Noun===
+{{head|ie|noun}}
+
+# [[sport#English|sport]]
+
+----
+
+==Italian==
+
+===Noun===
+{{head|it|noun|g=m|invariable}}
+
+# {{l|en|sport}} (activity that uses physical skills, often competitive)
+# [[hobby]], [[pastime]]
+#: ''fare qualcosa '''per sport''' (to do something for fun)''
+
+====Derived terms====
+* {{l|it|sportivo}}
+* {{l|it|sportivamente}}
+* {{l|it|sportività}}
+
+[[Category:it:Sports]]
+
+----
+
+==Lower Sorbian==
+
+===Etymology===
+From {{etyl|en|dsb}} {{m|en|sport}}.
+
+===Pronunciation===
+* {{IPA|[spɔrt]|lang=dsb}}
+
+===Noun===
+{{dsb-noun|m}}
+
+# {{l|en|sport}} {{gloss|athletic activity that uses physical skills}}
+
+====Declension====
+{{dsb-decl-noun-18|spor|t}}
+
+===References===
+* {{R:dsb:Starosta}}
+
+[[Category:dsb:Sports]]
+
+----
+
+==Norman==
+
+===Noun===
+{{nrf-noun|m}}
+
+# {{lb|nrf|Jersey}} {{l|en|sport}} (physical activity pitting two or more opponents against each other)
+
+----
+
+==Norwegian Bokmål==
+
+===Alternative forms===
+* {{l|nb|spora}}, {{l|nb|sporet}}
+
+===Verb===
+{{head|nb|verb form}}
+
+# {{form of|past participle|spore|lang=nb}}
+
+----
+
+==Polish==
+
+===Etymology===
+From {{etyl|en|pl}} {{m|en|sport}}
+
+===Pronunciation===
+* {{IPA|[s̪pɔrt̪]|lang=pl}}
+
+===Noun===
+{{pl-noun|m-in}}
+
+# {{l|en|sport}}
+
+====Declension====
+{{pl-decl-noun-m-in}}
+
+====Derived terms====
+* {{l|pl|sportowy}}, {{l|pl|sportowiec}}
+
+[[Category:pl:Sports]]
+
+----
+
+==Serbo-Croatian==
+
+===Alternative forms===
+* {{qualifier|Croatia}} {{l|sh|špȍrt}}
+{{attention|sh|entry at šport says this is Croatian, IP says šport is Croatian- which is right?}}
+
+===Etymology===
+From {{etyl|en|sh}} {{m|en|sport}}.
+
+===Pronunciation===
+* {{IPA|/spôrt/|lang=sh}}
+
+===Noun===
+{{sh-noun|g=m|head=spȍrt|r|спорт|спо̏рт}}
+
+# {{l|en|sport}}
+
+====Declension====
+{{sh-decl-noun
+|spȍrt|spòrtovi
+|sporta|sportova
+|sportu|sportovima
+|sport|sportove
+|sporte|sportovi
+|sportu|sportovima
+|sportom|sportovima
+}}
+
+====Derived terms====
+* {{l|sh|spȍrtskī}}
+* {{l|sh|spòrtāš}}
+* {{l|sh|sportist|sportist(a)}}
+
+[[Category:sh:Sports|sh:Sports]]
+
+----
+
+==Swedish==
+
+===Pronunciation===
+* {{audio|Sv-sport.ogg|Audio|lang=sv}}
+
+===Verb===
+{{head|sv|verb form}}
+
+# {{sv-verb-form-sup|spörja}}
+
+===Noun===
+{{sv-noun|c}}
+
+# {{l|en|sport}}
+
+====Declension====
+{{sv-infl-noun-c-er}}
+
+[[ang:sport]]
+[[az:sport]]
+[[br:sport]]
+[[ca:sport]]
+[[cs:sport]]
+[[cy:sport]]
+[[da:sport]]
+[[de:sport]]
+[[et:sport]]
+[[el:sport]]
+[[es:sport]]
+[[eo:sport]]
+[[eu:sport]]
+[[fa:sport]]
+[[fr:sport]]
+[[fy:sport]]
+[[gl:sport]]
+[[ko:sport]]
+[[hy:sport]]
+[[hr:sport]]
+[[io:sport]]
+[[id:sport]]
+[[it:sport]]
+[[kn:sport]]
+[[kk:sport]]
+[[sw:sport]]
+[[ku:sport]]
+[[lo:sport]]
+[[lv:sport]]
+[[lt:sport]]
+[[li:sport]]
+[[hu:sport]]
+[[mg:sport]]
+[[ml:sport]]
+[[my:sport]]
+[[nl:sport]]
+[[ja:sport]]
+[[no:sport]]
+[[oc:sport]]
+[[uz:sport]]
+[[pl:sport]]
+[[pt:sport]]
+[[ro:sport]]
+[[ru:sport]]
+[[sq:sport]]
+[[simple:sport]]
+[[sr:sport]]
+[[sh:sport]]
+[[fi:sport]]
+[[sv:sport]]
+[[ta:sport]]
+[[te:sport]]
+[[th:sport]]
+[[chr:sport]]
+[[tr:sport]]
+[[vi:sport]]
+[[zh:sport]]

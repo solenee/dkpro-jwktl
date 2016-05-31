@@ -1,0 +1,50 @@
+==French==
+
+===Etymology===
+{{rfe|lang=fr}}
+
+===Pronunciation===
+* {{IPA|/ɔʁ.ɡan/|lang=fr}}
+* {{audio|Fr-organe.ogg|organe|lang=fr}}
+
+===Noun===
+{{fr-noun|m}}
+
+# {{lb|fr|anatomy}} {{l|en|organ}} {{gloss|any part of the body}}
+# organ {{gloss|official publication}}
+# {{l|en|subsystem}} {{qualifier|of mechanical parts}}
+# {{l|en|body}} {{qualifier|of an organization}}, organ
+# {{l|en|voice}} {{rfgloss|fr|noun}}
+
+====Derived terms====
+* {{l|fr|organisation}}
+* {{l|fr|organiser}}
+* {{l|fr|organisme}}
+
+===External links===
+* {{R:TLFi}}
+
+===Anagrams===
+* {{l|fr|onagre}}, {{l|fr|orange}}, {{l|fr|rongea}}
+
+[[roa-rup:organe]]
+[[cs:organe]]
+[[de:organe]]
+[[et:organe]]
+[[el:organe]]
+[[fr:organe]]
+[[gl:organe]]
+[[ko:organe]]
+[[io:organe]]
+[[lt:organe]]
+[[hu:organe]]
+[[mg:organe]]
+[[oc:organe]]
+[[pl:organe]]
+[[pt:organe]]
+[[ru:organe]]
+[[sh:organe]]
+[[fi:organe]]
+[[chr:organe]]
+[[tr:organe]]
+[[vi:organe]]

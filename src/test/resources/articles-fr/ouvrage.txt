@@ -1,0 +1,151 @@
+{{voir|ouvragé}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Dérivé de ''[[ouvrer]]'', ancienne forme de ''[[œuvrer]]'', avec le suffixe ''[[-age]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|u.vʁaʒ}}
+'''ouvrage''' {{pron|u.vʁaʒ|fr}} {{m}}
+# [[travail|Travail]], [[action]] de [[travailler]].
+#* ''Le sophisme que je combats dans cet écrit est d’autant plus dangereux, appliqué aux travaux publics, qu’il sert à justifier les entreprises et les prodigalités les plus folles. Quand un chemin de fer ou un pont ont une utilité réelle, il suffit d’invoquer cette utilité. Mais si on ne le peut, que fait-on ? On a recours à cette mystification : « Il faut procurer de l’'''ouvrage''' aux ouvriers. »'' {{source|{{w|Frédéric Bastiat}}, ''[[s:Ce qu’on voit et ce qu’on ne voit pas/Chapitre 5|Ce qu’on voit et ce qu’on ne voit pas]]'', 1850}}
+#* ''Deux '''ouvrages''' quotidiens désagréables sont déjà en train de disparaître.'' {{source|{{Citation/H. G. Wells/Anticipations/1904}}}}
+#* ''Ça donne de l’'''ouvrage'''<br
+/>À tous les ouvriers<br
+/>Et chacun envisage<br
+/>De fonder un foyer''<br
+/>{{source|{{w|Boris Vian}}, ''Le Petit Commerce'', 1955}}
+# Ce qui est [[produit]] par l’[[ouvrier]] ce qui [[résulter|résulte]] d’un [[travail]].
+#* ''Ouvrage de marqueterie, de mosaïque. '''Ouvrage''' de tapisserie, de broderie. '''Ouvrage''' de peinture, de sculpture, d’architecture.''
+# {{figuré|fr}} Travail, [[résultat]].
+#* ''Ce succès fut l’'''ouvrage''' du hasard, de la fortune.''
+#* ''Mes malheurs ont été votre '''ouvrage'''.''
+# {{absolument}} {{couture|fr}} {{vieilli|fr}} [[objet|Objet]] auquel les [[femme]]s travaillent à l’[[aiguille]].
+#* ''Marie-Emilienne, tenant à la main l’'''ouvrage''' auquel elle venait de travailler, une nappe d’autel pour l’oeuvre des églises dévastées, demeurait immobile et silencieuse ; son expressif visage témoignait des sentiments divers et contraires qui l’agitaient.'' {{source|Comtesse de Massacré, L’autre courage, in ''Les veillées des chaumières'' n° 42 du 26 mars 1919, p. 330}}
+#* ''Elle avait toujours son '''ouvrage''' à la main.''
+# {{particulier}} [[production|Production]] de l’[[esprit]].
+#* ''La législation d’Athènes fut l’'''ouvrage''' de Solon. Les '''ouvrages''' de Cicéron, de Virgile.''
+# {{par ext}} [[recueil|Recueil]], [[livre]] qui [[contenir|contient]] ces productions de l’esprit.
+#* ''Il fera certainement de bons '''ouvrages''', moyennant quoi il mourra de faim, sera honni et persécuté ; mais il faut que chacun remplisse sa destinée.'' {{source|{{w|Voltaire}}, ''Lettre à Monsieur de Cideville, Ferney, 31 auguste 1765'', dans ''Œuvres complètes de Voltaire: Correspondance'', Paris, Lefebvre & Cie, 1830, vol. 10, p.29}}
+#* ''Je n’insiste pas, car il existe des '''ouvrages''' sur ces questions, tels l’important mémoire de De Candolle et les travaux de A. Chevalier.'' {{source|{{w|Henri Gaussen}}, ''Géographie des Plantes'', Armand Colin, 1933, p. 97}}
+#* ''Eh ! bien, ne reculant devant aucune tâche si fastidieuse fût-elle, ils pourvoiront, d’eux-mêmes, à la diffusion de ces '''ouvrages''', en s’en faisant les traducteurs.'' {{source|{{w|Léon Berman}}, ''Histoire des Juifs de France des origines à nos jours'', 1937}}
+#* ''Une longue fréquentation des '''ouvrages''' ésotériques m’a souvent fait croiser des '''ouvrages''' bourrés d’affirmations non vérifiées et contraires à toute démarche scientifique, garnis de citations introuvables, […].'' {{source|''Les grands esprits manipulés par les astrologues'', dans ''{{w|Le Québec sceptique}}'', nº 56, p. 29, printemps 2005}}
+# {{architecture|fr}} Toute sorte de [[travaux]] [[avancé]]s au-dehors d’une [[place]] et destinés à la [[fortifier]].
+#* ''Belgrade est une ville ouverte, car son ancienne forteresse turque ne peut pas être considérée comme un '''ouvrage''' de défense moderne.'' {{source|{{w|Rodolphe Archibald Reiss}}, ''Comment les Austro-Hongrois ont fait la guerre en Serbie'', 1915}}
+# {{maçonnerie|fr}} {{architecture|fr}} [[construction|Construction]].
+
+==== {{S|dérivés}} ====
+* [[gros ouvrages]] (murs de fondation, de face, de refend, contre-murs)
+* [[maître d’ouvrage]], [[maître de l’ouvrage]]
+* [[maîtrise d’ouvrage]]
+* [[menus ouvrages]] (cheminées, plafonds, carrelages, etc.)
+* [[ouvrage d’art]] (gros travaux de maçonnerie, de charpente, etc., que rendent nécessaires certaines entreprises d’utilité publique comme les chemins de fer, les canaux, les ponts, etc.)
+* [[ouvrage de dames]]
+* [[ouvrage de patience]] (qui demande principalement du temps et de la constance)
+* [[ouvrage de Pénélope]] (chose commencée cent fois, que l’on défait à mesure et qui ne finit jamais)
+* [[sac à ouvrage]] (sac dans lequel les dames rangeaient leur ouvrages de broderie, de couture, de tricot)
+
+==== {{S|traductions}} ====
+{{trad-début|Travail : Action de travailler, ce qui est produit par l’ouvrier ou résultat d’un travail ''(Sens général)''}}
+* {{T|af}} : {{trad-|af|arbeid}}, {{trad+|af|werk}}
+* {{T|sq}} : {{trad+|sq|arritur}}
+* {{T|de}} : {{trad+|de|Arbeit}} {{f}}, {{trad+|de|Werk}} {{n}} (résultat), {{trad+|de|Ergebnis}} {{n}} (résultat)
+* {{T|en}} : {{trad+|en|work}}, {{trad+|en|labour}}, {{trad+|en|accomplishment}}, {{trad+|en|achievement}}, {{trad+|en|feat}}
+* {{T|ang}} : {{trad-|ang|weorc}}
+* {{T|da}} : {{trad+|da|arbejde}}
+* {{T|es}} : {{trad+|es|trabajo}}, {{trad+|es|obra}}
+* {{T|eo}} : {{trad-|eo|laboro}}, {{trad-|eo|faritaĵo}}
+* {{T|fo}} : {{trad+|fo|arbeiði}}
+* {{T|fy}} : {{trad-|fy|arbeid}}, {{trad-|fy|wurk}}
+* {{T|gd}} : {{trad+|gd|obair}}, {{trad-|gd|saothair}}
+* {{T|el}} : {{trad+|el|αγγαρεία}}, {{trad+|el|έργο}}, {{trad+|el|άθλος}}
+* {{T|hbo}} : {{trad--|hbo|מלאכה|dif=מְלָאכָה}} {{f}}
+* {{T|hu}} : {{trad+|hu|munka}}
+* {{T|io}} : {{trad+|io|laboro}}
+* {{T|is}} : {{trad+|is|verk}}, {{trad+|is|vinna}}
+* {{T|it}} : {{trad+|it|lavoro}}, {{trad+|it|opera}}
+* {{T|la}} : {{trad+|la|labor}}
+* {{T|yua}} : {{trad--|yua|meyah}}
+* {{T|nl}} : {{trad+|nl|arbeid}}, {{trad+|nl|emplooi}}, {{trad+|nl|werk}}, {{trad+|nl|karwei}}, {{trad+|nl|prestatie}}
+* {{T|fra-nor}} : {{trad--|fra-nor|tripot|m}}
+* {{T|no}} : {{trad+|no|arbeid}}
+* {{T|pap}} : {{trad--|pap|labor}}, {{trad--|pap|obra}}, {{trad--|pap|trabou}}
+* {{T|pl}} : {{trad+|pl|robota}}, {{trad+|pl|praca}}
+* {{T|pt}} : {{trad+|pt|labor}}, {{trad+|pt|trabalho}}, {{trad+|pt|obra}}
+* {{T|ro}} : {{trad+|ro|muncă}}
+* {{T|ru}} : {{trad+|ru|работа}}
+* {{T|se}} : {{trad--|se|duodji}}
+* {{T|srn}} : {{trad--|srn|wroko}}
+* {{T|sv}} : {{trad+|sv|arbete}}, {{trad+|sv|verk}}
+* {{T|sw}} : {{trad+|sw|kazi}}
+* {{T|tl}} : {{trad-|tl|gáwaín}}, {{trad-|tl|hánapbuhay}}
+* {{T|tr}} : {{trad+|tr|iş}}
+* {{T|zu}} : {{trad-|zu|umsebenzi}}
+{{trad-fin}}
+
+{{trad-début|Travail d’aiguille}}
+* {{T|de}} : {{trad-|de|Nadelarbeit}} {{f}}, {{trad+|de|Handarbeit}} {{f}}
+* {{T|en}} : {{trad+|en|needlework}}
+* {{T|es}} : {{trad-|es|obra de aguja}}
+* {{T|it}} : {{trad-|it|lavoro di cucito}}
+{{trad-fin}}
+
+{{trad-début|Production de l’esprit}}
+* {{T|de}} : {{trad+|de|Werk}} {{n}}
+* {{T|en}} : {{trad+|en|work}}, {{trad+|en|piece}}
+* {{T|es}} : {{trad+|es|obra}}
+* {{T|it}} : {{trad+|it|opera}}
+{{trad-fin}}
+
+{{trad-début|Recueil, livre qui contient ces productions de l’esprit}}
+* {{T|de}} : {{trad+|de|Werk}} {{n}}
+* {{T|en}} : {{trad+|en|book}}
+* {{T|es}} : {{trad+|es|obra}}, {{trad+|es|libro}}
+{{trad-fin}}
+
+{{trad-début|Toute sorte de travaux avancés au-dehors d’une place et destinés à la fortifier}}
+* {{T|es}} : {{trad+|es|obra}}, {{trad+|es|fortificación}}
+* {{T|it}} : {{trad+|it|opera}}
+{{trad-fin}}
+
+{{trad-début|(Architecture) Construction}}
+* {{T|en}} : {{trad+|en|construction}}
+* {{T|es}} : {{trad+|es|obra}}, {{trad+|es|construcción}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|ouvrager|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui|'=oui}}
+'''ouvrage''' {{pron|u.vʁaʒ|fr}}
+# ''Première personne du singulier de l’indicatif présent du verbe'' [[ouvrager]].
+# ''Troisième personne du singulier de l’indicatif présent du verbe'' [[ouvrager]].
+# ''Première personne du singulier du subjonctif présent du verbe'' [[ouvrager]].
+# ''Troisième personne du singulier du subjonctif présent du verbe'' [[ouvrager]].
+# ''Deuxième personne du singulier de l’impératif du verbe'' [[ouvrager]].
+
+=== {{S|prononciation}} ===
+* {{pron|u.vʁaʒ|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->|u.vʁaʒ|audio=Fr-ouvrage.ogg}}
+
+=== {{S|voir aussi}} ===
+* {{Wikipédia|Ouvrage}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+
+[[cs:ouvrage]]
+[[de:ouvrage]]
+[[el:ouvrage]]
+[[en:ouvrage]]
+[[es:ouvrage]]
+[[et:ouvrage]]
+[[fi:ouvrage]]
+[[hu:ouvrage]]
+[[id:ouvrage]]
+[[io:ouvrage]]
+[[ko:ouvrage]]
+[[mg:ouvrage]]
+[[oc:ouvrage]]
+[[pl:ouvrage]]
+[[ru:ouvrage]]
+[[sk:ouvrage]]
+[[vi:ouvrage]]

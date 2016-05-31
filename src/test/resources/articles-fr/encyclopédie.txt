@@ -1,0 +1,140 @@
+{{voir|encyclopedie|encyclopédié}}
+
+== {{langue|fr}} ==
+
+=== {{S|étymologie}} ===
+:{{date|1532}}{{R|TLFi}} Du {{étyl|la|fr|encyclopaedia}} forgé à la [[Renaissance]] sur la base du grec {{polytonique|{{lien|ἐγκύκλιος|grc}}|énkyklios|circulaire}} — voir ''{{lien|encyclique|fr}}'' — et {{polytonique|{{lien|παιδεία|grc}}|paideía|instruction}} soit le sens de « ensemble de toutes les sciences{{R|DAF1}} ».
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɑ̃.si.klɔ.pe.di}}
+[[Image:PWN Encyclopedia.jpg|thumb|Rayonnage d’encyclopédie (2)]]
+'''encyclopédie''' {{pron|ɑ̃.si.klɔ.pe.di|fr}} {{f}}
+# [[ensemble|Ensemble]], [[enchaînement]] de toutes les [[connaissance]]s.
+#* ''L''''Encyclopédie''' aristotélicienne apparut comme la somme de connaissances humaines auxquelles l'esprit humain peut accéder par ses propres forces.'' {{source|Louis Rougier, ''Histoire d'une faillite philosophique: la Scolastique'', 1925, éd.1966}}
+#* '''''Encyclopédie''' des connaissances humaines.''
+#* ''Il est impossible qu’un seul homme possède l’'''encyclopédie''' du savoir humain.''
+#* '''''ENCYCLOPÉDIE''', s.f. (''Philosophie''). Ce mot signifie ''enchaînement de connaissances''.'' {{source|{{w|Denis Diderot}}, [[s:Page:Diderot_-_Encyclopedie_1ere_edition_tome_5.djvu/654|Article « ENCYCLOPÉDIE »]]}}
+# [[recueil|Recueil]] qui [[embrasse]] beaucoup de [[science]]s, beaucoup de savoirs.
+#* ''L’ouvrage de Pline l’Ancien est une véritable '''encyclopédie'''.''
+# [[ouvrage|Ouvrage]] de [[référence]] contenant des [[articles]] de [[fond]] portant sur un grand nombre de sujets, généraux ou spécifiques.
+#* ''L’'''encyclopédie''' Wikipédia contient un article sur l’automobile. - Diderot et d’Alembert ont publié « ''L’'''Encyclopédie''' ou Dictionnaire raisonné des sciences, des arts et des métiers ».
+# {{figuré|fr}} [[savant|Savant]] [[universel]], {{lien|polymathe|fr}}.
+#* ''Lettré, théologien, juriste et philosophe, il est le type parfait, très rare aujourd'hui, du savant arabe : véritable '''encyclopédie''' vivante de la science d'il y a un demi-millénaire. Il croit fermement aux horoscopes, à l’influence des planètes et des constellations, des « douze maisons » du soleil, à la pierre philosophale et à la possibilité de transformer les métaux vils en métaux précieux.'' {{source|{{w|Frédéric {{smcp|Weisgerber}}}}, ''Trois mois de campagne au Maroc : étude géographique de la région parcourue'', Paris : Ernest Leroux, 1904, p. 122}}
+
+==== {{S|variantes orthographiques}} ====
+* [[encyclopædie]] (''archaïque'')
+
+==== {{S|dérivés}} ====
+* [[encyclopède]]
+* [[encyclopédier]]
+* [[encyclopédique]]
+* [[encyclopédiste]]
+* [[encyclopédite]]
+
+==== {{S|traductions}} ====
+{{trad-début|Ouvrage de référence universel}}
+* {{T|af}} : {{trad+|af|ensiklopedie}}
+* {{T|de}} : {{trad+|de|Enzyklopädie}} {{f}}, {{trad-|de|Encyklopädie}}
+* {{T|gsw-fr}} : {{trad--|gsw-fr|Enzyklopädie}}
+* {{T|en}} : {{trad+|en|encyclopedia}}, {{trad+|en|encyclopaedia}}
+* {{T|ang}} : {{trad-|ang|wisdomboc|dif=wīsdōmbōc}}
+* {{T|ar}} : {{trad+|ar|موسوعة|R=mausú:ʕa}} {{f}}
+* {{T|hy}} : {{trad+|hy|հանրագիտարան|R=hanragitaran}}
+* {{T|nds}} : {{trad-|nds|nokieksel}}
+* {{T|eu}} : {{trad+|eu|entziklopedia}}
+* {{T|bs}} : {{trad-|bs|enciklopedija}} {{f}}
+* {{T|bg}} : {{trad-|bg|енциклопедия|R=entsiklopédija}} {{f}}
+* {{T|ca}} : {{trad+|ca|enciclopèdia}}
+* {{T|zh}} : {{trad+|zh|百科全书|tr=bǎikēquánshū|tradi=百科全書}}
+* {{T|ko}} : {{trad+|ko|백과사전|tr=baekkwasajeon|tradi=百科事典}}
+* {{T|hr}} : {{trad-|hr|enciklopedija|dif=enciklopédija}} {{f}}
+* {{T|da}} : {{trad+|da|encyklopædi}}
+* {{T|es}} : {{trad+|es|enciclopedia}}
+* {{T|eo}} : {{trad+|eo|enciklopedio}}
+* {{T|et}} : {{trad-|et|entsüklopeedia}}
+* {{T|fo}} : {{trad-|fo|alfrøðibók}}
+* {{T|fi}} : {{trad+|fi|tietosanakirja}}, {{trad+|fi|ensyklopedia}}
+* {{T|fy}} : {{trad-|fy|ensyklopedy}}
+* {{T|el}} : {{trad+|el|εγκυκλοπαίδεια|R=enkiklopedhia}}
+* {{T|he}} : {{trad+|he|אנציקלופדיה|dif=אֶנְצִיקְלוֹפֶּדְיָה|R=entsiklopedya}}
+* {{T|hi}} : {{trad-|hi|ज्ञानकोष|R=gyānkoś}}
+* {{T|hu}} : {{trad+|hu|enciklopédia}}
+* {{T|io}} : {{trad+|io|enciklopedio}}
+* {{T|id}} : {{trad+|id|ensiklopedia}}
+* {{T|ia}} : {{trad-|ia|encyclopedia}}
+* {{T|is}} : {{trad+|is|alfræðiorðabók}}
+* {{T|it}} : {{trad+|it|enciclopedia}}
+* {{T|ja}} : {{trad+|ja|百科事典|tr=hyakkajiten}}
+* {{T|lad}} : {{trad--|lad|ansiklopedia}}
+* {{T|ku}} : {{trad+|ku|zanistname}}
+* {{T|la}} : {{trad-|la|encyclopaedia}}
+* {{T|lv}} : {{trad-|lv|enciklopēdija}}
+* {{T|li}} : {{trad-|li|encyklopedie}}
+* {{T|lt}} : {{trad+|lt|enciklopedija}}
+* {{T|lb}} : {{trad-|lb|Enzyklopedie|f}}
+* {{T|nl}} : {{trad+|nl|encyclopedie}}
+* {{T|no}} : {{trad+|no|encyklopedi}}, {{trad+|no|ensyklopedi}}
+* {{T|nn}} : {{trad+|no|encyklopedi}}, {{trad+|no|ensyklopedi}}
+* {{T|ur}} : {{trad-|ur|جامع|R=jāme}}, {{trad+|ur|قاموس|R=qāmws}}
+* {{T|pap}} : {{trad--|pap|ensiklopedia}}
+* {{T|fa}} : {{trad+|fa|دانشنامه|R=dānešnāmeh}}
+* {{T|pl}} : {{trad+|pl|encyklopedia}}
+* {{T|pt}} : {{trad+|pt|enciclopédia}}
+* {{T|ro}} : {{trad+|ro|enciclopedie}}
+* {{T|ru}} : {{trad+|ru|энциклопедия|R=èntsiklopediia}}
+* {{T|sa}} : {{trad-|sa|विश्वकोश|R=viśvakośa}}
+* {{T|sr}} : {{trad-|sr|енциклопедија|R=enciklopedija}}
+* {{T|sk}} : {{trad-|sk|encyklopédia}}
+* {{T|sl}} : {{trad+|sl|enciklopedija}}
+* {{T|sv}} : {{trad+|sv|encyklopedi}}
+* {{T|tl}} : {{trad+|tl|ensiklopedya}}
+* {{T|cs}} : {{trad+|cs|encyklopedie}}, {{lien|naučný|cs}} {{lien|slovník|cs}}
+* {{T|th}} : {{trad+|th|สารานุกรม|R=saranukrom}}
+* {{T|tr}} : {{trad+|tr|ansiklopedi}}
+* {{T|uk}} : {{trad-|uk|енциклопедія|R=entsyklopédija}}
+* {{T|vi}} : {{trad+|vi|bách khoa toàn thư}}, {{trad+|vi|bách khoa}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|encyclopédier|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui|'=oui}}
+'''encyclopédie''' {{pron|ɑ̃.si.klɔ.pe.di|fr}}
+# ''Première personne du singulier de l’indicatif présent de'' [[encyclopédier]].
+# ''Troisième personne du singulier de l’indicatif présent de'' [[encyclopédier]].
+# ''Première personne du singulier du subjonctif présent de'' [[encyclopédier]].
+# ''Troisième personne du singulier du subjonctif présent de'' [[encyclopédier]].
+# ''Deuxième personne du singulier de l’impératif présent de'' [[encyclopédier]].
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Prononciation sans liaison)|yn ɑ̃.si.klɔ.pe.di|titre=une encyclopédie|audio=Fr-encyclopédie.ogg}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}
+{{clé de tri|encyclopedie}}
+
+[[ca:encyclopédie]]
+[[de:encyclopédie]]
+[[el:encyclopédie]]
+[[en:encyclopédie]]
+[[es:encyclopédie]]
+[[eu:encyclopédie]]
+[[fi:encyclopédie]]
+[[hu:encyclopédie]]
+[[io:encyclopédie]]
+[[it:encyclopédie]]
+[[ko:encyclopédie]]
+[[lo:encyclopédie]]
+[[mg:encyclopédie]]
+[[mk:encyclopédie]]
+[[mt:encyclopédie]]
+[[nl:encyclopédie]]
+[[no:encyclopédie]]
+[[pl:encyclopédie]]
+[[ro:encyclopédie]]
+[[ru:encyclopédie]]
+[[tr:encyclopédie]]
+[[vi:encyclopédie]]
+[[zh-min-nan:encyclopédie]]

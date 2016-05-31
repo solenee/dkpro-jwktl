@@ -1,0 +1,74 @@
+{{voir|dóc|DOC|doç}}
+
+== {{langue|conv}} ==
+=== {{S|symbole|conv}} ===
+'''doc'''
+# {{linguistique|conv}} Code {{w|ISO 639-3}} du [[{{doc }}]].
+
+=== {{S|références}} ===
+* {{Lien 639-3|doc }}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: (1) {{apocope|fr|m=1}} de ''[[documentation#fr|documentation]]''.
+: (2) {{apocope|fr|m=1}} de ''[[document#fr|document]]''.
+: (3) {{apocope|fr|m=1}} de ''[[docteur#fr|docteur]]''.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|dɔk}}
+'''doc''' {{pron|dɔk|fr}} {{f}}
+# {{familier|fr}} [[documentation#fr|Documentation]].
+#* ''Il faut lire la '''doc'''.''
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|dɔk}}
+'''doc''' {{pron|dɔk|fr}} {{m}}
+# {{familier|fr}} [[document#fr|Document]].
+#* ''Je te renvoie le '''doc''' une fois corrigé.''
+
+=== {{S|nom|fr|num=3}} ===
+{{fr-rég|dɔk}}
+'''doc''' {{pron|dɔk|fr}} {{m}}
+# {{familier|fr}} [[docteur#fr|Docteur]].
+#* ''Salut, '''doc'''.''
+
+=== {{S|anagrammes}} ===
+* [[cdo]]
+
+[[Catégorie:Noms multigenres en français]]
+
+== {{langue|en}} ==
+=== {{S|étymologie}} ===
+: {{ébauche-étym|en}}
+
+=== {{S|nom|en}} ===
+'''doc''' {{pron|ˈdɑːk|en}} {{abréviation|en}}
+# {{familier|en}} ''Abréviation de'' [[document#en-nom|document]].
+# {{familier|en}} [[toubib#fr|Toubib]].
+
+== {{langue|ca}} ==
+=== {{S|étymologie}} ===
+: {{ébauche-étym|ca}}
+
+=== {{S|nom|ca}} ===
+'''doc''' {{pron||ca}} {{m}}
+# {{marine|ca}} [[dock|Dock]].
+
+[[en:doc]]
+[[es:doc]]
+[[et:doc]]
+[[hu:doc]]
+[[hy:doc]]
+[[io:doc]]
+[[it:doc]]
+[[ko:doc]]
+[[li:doc]]
+[[lt:doc]]
+[[my:doc]]
+[[nl:doc]]
+[[pl:doc]]
+[[ro:doc]]
+[[simple:doc]]
+[[sv:doc]]
+[[vi:doc]]
+[[zh:doc]]

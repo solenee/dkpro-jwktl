@@ -1,0 +1,49 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{cf|guérir}}
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ɡe.ʁi.zɔ̃}}
+'''guérison''' {{pron|ɡe.ʁi.zɔ̃|fr}} {{f}}
+# [[action|Action]] de [[guérir]].
+#* ''Le Dr Aignier déclare au Congrès des monistes (Magdebourg, 6-10 septembre 1912) n'avoir constaté à Lourdes ni '''guérison''' ni amélioration véritables.'' {{source|Abbé Paul Buysse, ''Vers la Foi catholique : L'Église de Jésus'', 1926, p.200}}
+#* '''''Guérison''' entière, parfaite, imparfaite.''
+#* ''Il doit sa '''guérison''' à tel médecin, à tel remède.''
+#* ''Il ne pourra partir qu’après sa '''guérison''', qu’après '''guérison'''.''
+#* ''La '''guérison''' de ces sortes de maux, de maladies est lente, est difficile.''
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|en}} : {{trad+|en|healing}}, {{trad+|en|recovery}}
+* {{T|es}} : {{trad+|es|cura}}
+* {{T|eo}} : {{trad-|eo|resanigo}}
+* {{T|io}} : {{trad+|io|risanigo}}
+* {{T|it}} : {{trad+|it|guarigione|f}}
+* {{T|la}} : {{trad+|la|curo|m}}
+* {{T|nl}} : {{trad+|nl|genezing}}
+* {{T|pt}} : {{trad+|pt|cura}}
+{{trad-fin}}
+
+=== {{S|anagrammes}} ===
+* [[soigneur]]
+
+=== {{S|prononciation}} ===
+{{ébauche-pron|fr}}
+* {{écouter|lang=fr|France <!-- précisez svp la ville ou la région -->||audio=Fr-guérison.ogg}}
+
+=== {{S|références}} ===
+*{{Import:DAF8}}
+{{clé de tri|guerison}}
+
+[[cs:guérison]]
+[[el:guérison]]
+[[en:guérison]]
+[[fi:guérison]]
+[[gl:guérison]]
+[[hu:guérison]]
+[[io:guérison]]
+[[ko:guérison]]
+[[mg:guérison]]
+[[oc:guérison]]
+[[pl:guérison]]
+[[vi:guérison]]

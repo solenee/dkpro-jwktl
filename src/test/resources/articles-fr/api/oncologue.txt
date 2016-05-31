@@ -1,0 +1,34 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: De ''[[onco-]]'' (« [[tumeur]] », lui-même du grec [[ὄγκος#Grec ancien|ὄγκος]], ''onkos'', (« tas, masse »), et ''[[-logue]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|mf=oui|}}
+'''oncologue''' {{pron||fr}} {{mf}}
+# [[médecin|Médecin]] [[spécialiste]] en [[oncologie]].
+
+==== {{S|synonymes}} ====
+* [[cancérologue]]
+
+==== {{S|apparentés}} ====
+* [[oncologie]]
+* [[oncogénicité]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|de}} : {{trad+|de|Onkologe}}
+* {{T|en}} : {{trad+|en|oncologist}}
+* {{T|es}} : {{trad+|es|oncólogo}}
+* {{T|eo}} : {{trad-|eo|onkologo}}
+* {{T|fi}} : {{trad-|fi|onkologi}}, syöpään erikoistunut lääkäri
+* {{T|it}} : {{trad+|it|oncologo}}
+* {{T|nl}} : {{trad+|nl|oncoloog|m}}
+* {{T|pt}} : {{trad+|pt|oncologista}}
+* {{T|cs}} : {{trad-|cs|onkolog|m}}
+{{trad-fin}}
+[[Catégorie:Métiers de la santé en français]]
+
+[[en:oncologue]]
+[[hu:oncologue]]
+[[io:oncologue]]
+[[pl:oncologue]]

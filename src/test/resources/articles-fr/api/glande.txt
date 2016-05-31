@@ -1,0 +1,100 @@
+{{voir|glandé}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+:Du {{étyl|la|fr|mot=glandula}}, de [[glans|glans, glandis]].
+
+=== {{S|nom|fr}} ===
+{{fr-rég|glɑ̃d}}
+'''glande''' {{f}} {{pron|glɑ̃d|fr}}
+# {{anatomie|fr}} [[organe|Organe]] dont la [[fonction]] est, soit de [[filtrer]] le [[sang]], soit d’[[élaborer]] des [[produit]]s ou des [[élément]]s [[nécessaire]]s tant à la [[reproduction]] qu’à l’[[entretien]] de la vie.
+#* ''La présure ou chymosine ou encore lab-ferment est une enzyme sécrétée par les '''glandes''' gastriques des Mammifères jeunes. Extraite de la caillette de veau, la présure, en présence d'ions calcium coagule la caséine.'' {{source|Claude Audigié & François Zonszain, ''Biochimie structurale'', 1991, p.121}}
+# {{par ext}} [[certain|Certaines]] [[tumeur]]s [[accidentel]]les qui se forment en quelque [[partie]] du [[corps]].
+#* ''Il lui est survenu une grosse '''glande''' à la gorge, au sein.''
+#* ''Les '''glandes''' de l’aine, du cou.''
+# {{analogie|fr}} {{botanique|fr}} Petits [[mamelon]]s [[arrondir|arrondis]] ou [[ovale]]s, [[destiner|destinés]] à [[sécréter]] les sucs [[particulier]]s à diverses espèces de [[plante]]s.
+#* '''''Glandes''' écailleuses, lenticulaires, miliaires, etc.''
+#{{au pluriel|fr}}{{argot|fr}} [[rage|Rage]], [[colère]].
+#* ''Et j'ui ai dit : "Toi tu m'fous les '''glandes''' / Pis t'as rien à foutre dans mon monde / Arrache-toi d'là t'es pas d'ma bande / Casse-toi tu pues, et marche à l'ombre !"'' {{source|{{W|Renaud}}, {{W|Marche à l'ombre}}, 1980}}
+# {{familier|fr}} [[paresse|Paresse]].
+#* ''Bon bah j'ai terminé mon taf, à moi la '''glande''' !''
+
+==== {{S|synonymes}} ====
+* [[ganglion|Ganglion]]
+
+==== {{S|dérivés}} ====
+* [[glande thyroïde]]
+
+==== {{S|hyponymes}} ====
+'''organe anatomique''' (1)
+* [[glande lacrymale]]
+* [[glande salivaire]]
+* [[glande sébacée]]
+* [[glande thyroïde]]
+* [[glande uropygienne]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|af}} : {{trad-|af|klier}}
+* {{T|de}} : {{trad+|de|Drüse}}
+* {{T|en}} : {{trad+|en|gland}}
+* {{T|ca}} : {{trad-|ca|glàndula}}
+* {{T|es}} : {{trad+|es|glándula}}
+* {{T|eo}} : {{trad-|eo|glando}}
+* {{T|fo}} : {{trad-|fo|eitil}}, {{trad-|fo|kertil}}
+* {{T|el}} : {{trad+|el|αδένας}}
+* {{T|io}} : {{trad+|io|glando}}
+* {{T|id}} : {{trad+|id|kelenjar}}
+* {{T|kk}} : {{trad-|kk|без|tr=bez (1)}}
+* {{T|nl}} : {{trad+|nl|klier}}
+* {{T|no}} : {{trad-|no|kjertel}}
+* {{T|pap}} : {{trad--|pap|klir}}
+* {{T|pl}} : {{trad+|pl|gruczoł}} {{m}}
+* {{T|se}} : {{trad--|se|ráksá}}
+* {{T|sv}} : {{trad+|sv|körtel}}
+* {{T|cs}} : {{trad+|cs|žláza}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|glander|ind.p.1s=oui
+|ind.p.3s=oui
+|sub.p.1s=oui
+|sub.p.3s=oui
+|imp.p.2s=oui}}
+'''glande''' {{pron|glɑ̃d|fr}}
+# ''Première personne du singulier du présent de l’indicatif du verbe'' [[glander]].
+# ''Troisième personne du singulier du présent de l’indicatif du verbe'' [[glander]].
+# ''Première personne du singulier du présent du subjonctif du verbe'' [[glander]].
+# ''Troisième personne du singulier du présent du subjonctif du verbe'' [[glander]].
+# ''Deuxième personne du singulier de l’impératif du verbe'' [[glander]].
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+[[ast:glande]]
+[[ca:glande]]
+[[cs:glande]]
+[[de:glande]]
+[[el:glande]]
+[[en:glande]]
+[[eo:glande]]
+[[es:glande]]
+[[eu:glande]]
+[[fi:glande]]
+[[gl:glande]]
+[[hu:glande]]
+[[io:glande]]
+[[it:glande]]
+[[ko:glande]]
+[[li:glande]]
+[[mg:glande]]
+[[nl:glande]]
+[[pl:glande]]
+[[pt:glande]]
+[[ru:glande]]
+[[sv:glande]]
+[[vi:glande]]
+[[zh:glande]]

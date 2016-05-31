@@ -1,0 +1,15 @@
+==French==
+
+===Noun===
+{{fr-noun|m}}
+
+# [[oncologist]] (one who specialises in oncology)
+
+====Related terms====
+* {{l|fr|oncologie}}
+* {{l|fr|oncologique}}
+
+[[fr:oncologue]]
+[[io:oncologue]]
+[[hu:oncologue]]
+[[pl:oncologue]]

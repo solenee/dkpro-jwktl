@@ -1,0 +1,359 @@
+{{voir|SPORT|Sport|šport}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|fr|mot=sport}} tiré de l’ancien français ''[[desport]]'' (ou ''[[déport]]''), « [[jeu]], [[amusement]] », lui-même du {{étyl|la|fro|mot=deportare}} (voir ''[[deporto]]'').
+
+=== {{S|nom|fr}} ===
+{{fr-rég|spɔʁ}}
+'''sport''' {{pron|spɔʁ|fr}} {{m}}
+# [[quelqu’une|Quelqu’une]] des [[sorte]]s d’[[exercice]]s [[physique]]s, de jeux d’[[adresse]] ou de [[force]]. Le sport est un ensemble d'exercices, le plus souvent physiques, se pratiquant sous forme de jeux individuels ou collectifs pouvant donner lieu à des compétitions.
+#* ''Dans la politique il n'y a pas plus de scrupules que dans les '''sports''' : l'expérience apprend tous les jours avec quelle audace les concurrents dans les courses de tout genre corrigent les hasards défavorables.'' {{source|{{w|Georges Sorel}}, ''Réflexions sur la violence'', Chap.V, ''La grève générale politique'', 1908, p.228}}
+#* ''La guerre entre tribus et même les actes de brigandage étaient de véritables '''sports''', au même titre que la chasse et la fantasia :[…].'' {{source|{{w|Frédéric {{smcp|Weisgerber}}}}, ''Au seuil du Maroc Moderne'', Institut des Hautes Études Marocaines, Rabat : Les éditions de la porte, 1947, p. 110}} 
+#* ''Le statut d’entrepreneur individuel spécialisé dans la chnouf semble en contradiction avec une vocation de pédagogue se destinant à enseigner les valeurs du '''sport'''. À moins de se spécialiser dans le cyclisme.'' {{source|''Bourse d'études'', dans ''{{w|Marianne (magazine)}}'', n°772 du 11 février 2012, p. 43}}
+#* ''Sur les écrans plats, un match de foot est retransmis par la chaîne Eurosport. Estelle déteste le '''sport''' à la télé mais elle ne peut rien contre le phénomène des écrans plats qui grignotent chaque jour un peu plus les espaces publics.'' {{source|Stéphanie Glénat Cassan, ''SDF, sans difficulté financière'', Éditions Publibook, 2009, p.169}}
+# {{figuré|fr}} Agitation, affrontement spectaculaires.
+#* ''J'ai l'impression que demain soir, vers les dix-sept heures, il y aura du '''sport''' dans mon bureau.'' {{source|{{w|Georgius|Jo Barnais}}, ''Mort aux ténors'', {{w|Série noire}}, {{w|Gallimard}}, 1956. Ch. XI, p. 96}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[sport de combat]]
+* [[sport de glisse]]
+* [[sport de plein air]]
+* [[sport d’endurance]]
+* [[sport d’hiver]]
+* [[sport équestre]]
+* [[sportique]] {{vieilli|nocat=1}}
+{{)}}
+
+==== {{S|hyponymes}} ====
+{{cf|:Catégorie:Lexique en français du sport}}
+
+==== {{S|traductions}} ====
+{{trad-début|Exercice physique}}
+* {{T|af}} : {{trad-|af|sport}}
+* {{T|sq}} : {{trad+|sq|sport}}
+* {{T|de}} : {{trad+|de|Sport}}
+* {{T|en}} : {{trad+|en|sport}}
+* {{T|ar}} : {{trad-|ar|رياضة|R=riyāḍa|dif=رِياضة}}
+* {{T|hy}} : {{trad+|hy|սպորտ|tr=sport}}
+* {{T|az}} : {{trad+|az|idman}}
+* {{T|eu}} : {{trad+|eu|kirol}}, {{trad-|eu|kirola}}
+* {{T|be}} : {{trad+|be|спорт|m}}
+* {{T|br}} : {{trad+|br|sport}}
+* {{T|bg}} : {{trad+|bg|спорт|m}}
+* {{T|ca}} : {{trad+|ca|esport}}
+* {{T|zh}} : {{trad+|zh|运动|R=yùndòng|tradi=運動}}
+* {{T|ko}} : {{trad+|ko|운동|R=undong|tradi=運動}}, {{trad+|ko|스포츠|R=seupocheu}}
+* {{T|hr}} : {{trad+|hr|šport|m}}
+* {{T|da}} : {{trad+|da|sport}}
+* {{T|es}} : {{trad+|es|deporte}}
+* {{T|eo}} : {{trad-|eo|sporto}}
+* {{T|et}} : {{trad+|et|sport}}
+* {{T|fi}} : {{trad+|fi|urheilu}}
+* {{T|gl}} : {{trad+|gl|deporte}}
+* {{T|ka}} : {{trad+|ka|სპორტი|tr=sporti}}
+* {{T|el}} : {{trad+|el|άθλημα|n|R=áthlima}}
+* {{T|he}} : {{trad+|he|ספורט|tr=sport}}
+* {{T|hi}} : {{trad-|hi|वर्ज़िश|tr=varziś}}, {{trad+|hi|खेल|tr=khel}}
+* {{T|hu}} : {{trad+|hu|sport}}
+* {{T|io}} : {{trad+|io|sporto}}
+* {{T|id}} : {{trad+|id|olahraga}}
+* {{T|is}} : {{trad+|is|íþrótt}}
+* {{T|ja}} : {{trad+|ja|運動|R=undō}}, {{trad+|ja|スポーツ|R=supōtsu}}
+* {{T|csb}} : {{trad-|csb|szpòrt|m}}
+* {{T|kk}} : {{trad-|kk|спорт}}
+* {{T|km}} : {{trad+|km|កីឡា|tr=keila}}
+* {{T|lo}} : {{trad+|lo|ກິລາ|tr=ki la}}
+* {{T|lv}} : {{trad-|lv|sports}}
+* {{T|lt}} : {{trad+|lt|sportas}}
+* {{T|lb}} : {{trad-|lb|Sport|m}}
+* {{T|mk}} : {{trad-|mk|спорт|m}}
+* {{T|ms}} : {{trad+|ms|sukan}}
+* {{T|mt}} : {{trad-|mt|sport}}
+* {{T|nl}} : {{trad+|nl|sport}}
+* {{T|ne}} : {{trad-|ne|खेल|tr=khel}}
+* {{T|fra-nor}} : {{trad--|fra-nor|sport}}
+* {{T|nb}} : {{trad+|nb|sport}}
+* {{T|nn}} : {{trad-|no|idrett}}
+* {{T|oc}} : {{trad+|oc|espòrt}}
+* {{T|fa}} : {{trad+|fa|ورزش|R=varzeš}}
+* {{T|pl}} : {{trad+|pl|sport|m}}
+* {{T|pt}} : {{trad+|pt|desporto}}
+* {{T|ro}} : {{trad+|ro|sport}}
+* {{T|ru}} : {{trad+|ru|спорт|m}}
+* {{T|rue}}: {{trad--|rue|шпорт|m}}
+* {{T|se}} : {{trad--|se|valástallan}}
+* {{T|sr}} : {{trad+|sr|спорт|m}}
+* {{T|szl}} : {{trad--|szl|szport|m}}
+* {{T|sk}} : {{trad+|sk|šport|m}}
+* {{T|sl}} : {{trad+|sl|šport|m}}
+* {{T|sv}} : {{trad+|sv|idrott}} (physique), {{trad+|sv|sport}} (compétition)
+* {{T|sw}} : {{trad+|sw|spoti}}
+* {{T|tg}} : {{trad+|tg|варзиш}}
+* {{T|tl}} : {{trad-|tl|palakasan}}
+* {{T|cs}} : {{trad+|cs|sport|m}}
+* {{T|th}} : {{trad-|th|สปอร์ต|tr=sabpòt}}
+* {{T|tr}} : {{trad+|tr|spor}}
+* {{T|uk}} : {{trad-|uk|спорт|m}}
+* {{T|vi}} : {{trad+|vi|thể thao}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|France (Paris)|œ̃ spɔʁ|audio=Fr-sport.ogg|titre=un sport|lang=fr}}
+* {{écouter|Québec {{popu|nocat=1}}|spɑ{{e|ɔ}}ʁ|lang=fr}}
+
+=== {{S|anagrammes}} ===
+* [[ports]] {{cf|port}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+* {{WV|Faculté:Sports}}
+* {{Wikiquote}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+== {{langue|af}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|af|mot=sport}}.
+
+=== {{S|nom|af}} ===
+'''sport''' {{pron||af}}
+# [[sport#fr|Sport]].
+
+== {{langue|en}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|fro|en|mot=desport|sens=[[jeu]], [[amusement]]}}.
+
+=== {{S|adjectif|en}} ===
+'''sport''' {{pron|spɔɹt|en}}
+# De sport.
+#* '''''sport''' shoes.''
+
+==== {{S|quasi-synonymes}} ====
+* [[sports#en-adj|sports]] (comme adjectif)
+
+=== {{S|nom|en}} ===
+{{en-nom-rég|spɔɹt|s=s}}
+'''sport''' {{pron|spɔɹt|en}}
+# [[sport#fr|Sport]].
+
+===== {{S|note}} =====
+* Voir sur Wikipedia ci-dessous (en anglais) les distinctions entre l'emploi américain et britannique du mot « {{lien|sports|en}} ».
+
+==== {{S|dérivés}} ====
+* {{lien|good sport|en}} (''bon joueur'')
+* {{lien|sports|en}} ({{s}}: ''les sports'')
+* {{lien|sporty|en}} (''sportif'')
+
+=== {{S|verbe|en}} ===
+'''sport''' {{pron|spɔɹt|en}} {{i|en}} ou {{t|en}}
+# {{intransitif|en}} [[jouer|Jouer]]
+#* ''The puppies '''sported''' about on the lawn.''
+# {{transitif|en}} [[arborer|Arborer]] ; [[porter]] d’une manière [[élégante]] ou [[flamboyante]].
+#* ''He caught a glimpse of her just as she vanished into the limousine, '''sporting''' a mink coat.''
+
+=== {{S|anagrammes}} ===
+* [[ports]] {{cf|port}}
+
+=== {{S|prononciation}} ===
+* {{pron|spɔːt|en}} {{UK|nocat=1}}
+* {{pron|spɔɹt|en}} {{US|nocat=1}}
+** {{écouter|États-Unis (Californie)|spɔɹt|audio=En-us-sport.ogg|lang=en}}
+
+=== {{S|voir aussi}} ===
+* {{WP|lang=en}}
+* {{WP|Sports#Terminology|Terminologie: sports vs. sport|en}}
+* {{WP|Sport_(disambiguation)|sport (tous les sens)|en}}
+* {{WP|Sport|titre=sport}}
+
+== {{langue|br}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|fr|br|mot=sport}}.
+
+=== {{S|nom|br}} ===
+'''sport''' {{pron|ˈspɔrt|br}} {{m}} ({{p}} [[sportoù]])
+# [[sport#fr|Sport]].
+#* ''Ar '''sportoù''' aotreet er C'hoarioù [olimpek] n'int ket bet atav an hevelep re.'' {{source|[[w:Roparz Hemon|Roparz Hemon]], ''Ar C'hoarioù Olimpek'', in ''Ar Bed Keltiek'', n° 71, 1964, p. 259.}}
+#*: ''Les sports autorisés aux Jeux [olympiques] n'ont pas toujours été les mêmes.''
+
+==== {{S|dérivés}} ====
+{{(}}
+* {{lien|dilhad-sport|br}}
+* {{lien|handisport|br}}
+* {{lien|liessport|br}}
+* {{lien|sal-sport|br}}
+* {{lien|sportel|br}}
+* {{lien|sportour|br}}
+* {{lien|sportva|br}}
+* {{lien|tachenn-sport|br}}
+{{)}}
+
+== {{langue|da}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|da|mot=sport}}.
+
+=== {{S|nom|da}} ===
+'''sport''' {{pron||da}} {{m}}
+# [[sport#fr|Sport]].
+
+==== {{S|synonymes}} ====
+* [[idræt]]
+
+== {{langue|et}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|et|mot=sport}}.
+
+=== {{S|nom|et}} ===
+'''sport''' {{pron||et}}
+# [[sport#fr|Sport]].
+
+== {{langue|fy}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|fy|mot=sport}}.
+
+=== {{S|nom|fy}} ===
+'''sport''' {{pron||fy}}
+# [[sport#fr|Sport]].
+
+== {{langue|it}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|it|mot=sport}}.
+
+=== {{S|nom|it}} ===
+{{it-inv|ˈspɔrt}}
+'''sport''' {{pron|ˈspɔrt|it}} {{m}}
+# [[sport#fr|Sport]].
+
+== {{langue|nl}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|nl|mot=sport}}.
+
+=== {{S|nom|nl}} ===
+'''sport''' {{pron||nl}}
+# [[sport#fr|Sport]].
+
+==== {{S|synonymes}} ====
+* [[laddersport]]
+* [[treedje]]
+
+== {{langue|pl}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|pl|mot=sport}}.
+
+=== {{S|nom|pl}} ===
+'''sport''' {{pron||pl}}
+# [[sport#fr|Sport]].
+
+== {{langue|ro}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|ro|mot=sport}}.
+
+=== {{S|nom|ro}} ===
+'''sport''' {{pron|ˈspoɾt|ro}}
+# [[sport#fr|Sport]].
+
+== {{langue|sv}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|sv|mot=sport}}.
+
+=== {{S|nom|sv}} ===
+{{sv-nom-c-er}}
+'''sport''' {{pron||sv}} {{c}}
+# [[sport#fr|Sport]].
+
+==== {{S|quasi-synonymes}} ====
+* [[idrott]]
+
+==== {{S|composés}} ====
+* [[sportklubb#sv|sportklubb]]
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=sv|Suède <!-- précisez svp la ville ou la région -->||audio=Sv-sport.ogg}}
+
+== {{langue|cs}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|en|cs|mot=sport}}.
+
+=== {{S|nom|cs}} ===
+{{cs-décl-nom-mi-dur|rad=sport}}
+[[File:Osaka07 D8A Sebrle Celebrating.jpg|thumb|100px|Roman Šebrle oslavuje zisk zlaté medaile na MS v atletice v Osace (2007).]]
+'''sport''' {{pron||cs}} {{m|i}}
+# [[sport#fr|Sport]].
+#* '''''sport''' [[otužovat|otužuje]].''
+#*: le sport endurcit.
+
+==== {{S|quasi-synonymes}} ====
+* [[sportování#cs|sportování]], pratique du sport
+
+==== {{S|apparentés}} ====
+* [[sportovat#cs|sportovat]], faire du sport
+* [[sportovec#cs|sportovec]], un sportif - [[sportovkyně]], une athlète
+* [[sportovní]], sportif, de sport
+* [[sportoviště]], terrain de sport
+
+=== {{S|voir aussi}} ===
+* {{WP|lang=cs}}
+
+[[Catégorie:Lexique en français du sport]]
+[[Catégorie:Lexique en anglais du sport]]
+[[Catégorie:Lexique en tchèque du sport]]
+
+[[ang:sport]]
+[[az:sport]]
+[[br:sport]]
+[[ca:sport]]
+[[chr:sport]]
+[[cs:sport]]
+[[cy:sport]]
+[[da:sport]]
+[[de:sport]]
+[[el:sport]]
+[[en:sport]]
+[[eo:sport]]
+[[es:sport]]
+[[et:sport]]
+[[eu:sport]]
+[[fa:sport]]
+[[fi:sport]]
+[[fy:sport]]
+[[gl:sport]]
+[[hr:sport]]
+[[hu:sport]]
+[[hy:sport]]
+[[id:sport]]
+[[io:sport]]
+[[it:sport]]
+[[ja:sport]]
+[[kk:sport]]
+[[kn:sport]]
+[[ko:sport]]
+[[ku:sport]]
+[[li:sport]]
+[[lo:sport]]
+[[lt:sport]]
+[[lv:sport]]
+[[mg:sport]]
+[[ml:sport]]
+[[my:sport]]
+[[nl:sport]]
+[[no:sport]]
+[[oc:sport]]
+[[pl:sport]]
+[[pt:sport]]
+[[ro:sport]]
+[[ru:sport]]
+[[sh:sport]]
+[[simple:sport]]
+[[sq:sport]]
+[[sr:sport]]
+[[sv:sport]]
+[[sw:sport]]
+[[ta:sport]]
+[[te:sport]]
+[[th:sport]]
+[[tr:sport]]
+[[uz:sport]]
+[[vi:sport]]
+[[zh:sport]]

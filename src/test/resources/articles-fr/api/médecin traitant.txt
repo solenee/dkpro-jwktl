@@ -1,0 +1,26 @@
+== {{langue|fr}} ==
+{{ébauche|fr}}
+
+=== {{S|étymologie}} ===
+: {{cf|médecin|traiter|lang=fr}}.
+
+=== {{S|nom|fr}} ===
+'''médecin traitant''' {{pron||fr}} {{m}}
+# Médecin qui traite les malades d’une manière suivie.
+#* {{ébauche-exe|fr}}
+
+==== {{S|antonymes}} ====
+* [[médecin consultant]]
+
+==== {{S|traductions}} ====
+{{trad-début|}}
+* {{T|nl}} : {{trad-|nl|behandelend arts}}
+{{trad-fin}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+{{clé de tri|medecin traitant}}
+
+[[en:médecin traitant]]
+[[ko:médecin traitant]]

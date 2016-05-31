@@ -1,0 +1,151 @@
+{{voir|curé}}
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: (Traitement) Du latin ''[[cura]]'' (« [[soin]], [[surveillance]] »).
+: (Fonction ecclésiastique) Du latin ''[[curia]]'' (« [[division]] du peuple romain » et « [[temple]] » (où chaque curie s’assemblait pour sacrifier)) qui a aussi donné « [[curie]] » en français.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|kyʁ}}
+'''cure''' {{pron|kyʁ|fr}} {{f}}
+# [[soin|Soin]], [[souci]]. — En ce sens, il est surtout [[usité]] dans l’[[expression]] : ''[[n’avoir cure]]''.
+#* ''Il connaissait Zaheira: elle était toute jeune et robuste, belle. Instruite aussi, ce dont il '''n'avait cure'''.'' {{source|{{w|Out-el-Kouloub}}, ''Zaheira'', dans "Trois contes de l'Amour et de la Mort", 1940}}
+# [[traitement|Traitement]] des [[maladie]]s, des [[affection]]s [[grave]]s ou [[chronique]]s.
+#* ''Tout cela me semble un rêve, dit le précepteur ; nous avons assez de médecins juifs qui font des '''cures''' merveilleuses sans qu’on les regarde comme sorciers.'' {{source|{{Citation/Walter Scott/Ivanhoé/1820}}}}
+# {{part|fr}} [[soin|Soins]] dispensés dans un [[établissement]] [[thermal]].
+#* ''Je vous raconterai tout cela cet été si vous venez à Aix-les-Bains, vers le mois de septembre, car James veut y faire sa '''cure''' et je crois que je l'accompagnerai.'' {{source|{{Citation/Georges Simenon/Le Blanc à lunettes/1937|VIII}}}}
+#* ''La '''cure''' de boisson est la base du traitement à ''Vals''. L'eau y est consommée suivant les prescriptions médicales dans des buvettes élégantes et bien agencées''. {{source|''Vals-Saint-Jean - la station de Vals-les-Bains et environs'', éditée spécialement pour la Société Vals-Saint-Jean par G.-L. Arlaud, éditeur, Lyon (sans date ; vers 1930-1931), p.16}}
+# {{par ext}} '''Faire une cure''' de quelque chose : manger exclusivement de cette chose. Par extension, passer son temps à une activité.
+#* ''Je fais une cure de légumes verts''
+#* ''Je fais une cure de natation''
+# [[demeure|Demeure]] du [[curé]].
+#* ''La '''cure''' est en général dans le voisinage de l’église.''
+# {{par ext}} [[fonction|Fonction]] [[ecclésiastique]] à [[laquelle]] [[attacher|est attachée]] la [[direction]] [[spirituel]]le d’une [[paroisse]].
+#* ''D’autres places ecclésiastiques, telles que les principales chaires des universités et quelques grandes '''cures''', s’obtenaient au concours.'' {{source|Anonyme, ''[[s:Le Clergé en Espagne|Le Clergé en Espagne]]'', Revue des Deux Mondes, 1829, tome 1}}
+#* ''Il vicaria à la campagne jusqu'au mois de Janvier 1692, époque où il fut pourvu de la '''cure''' d’Étrépigny et de But, sa succursale.'' {{source|Rudolf Charles, Préface de ''Le testament de {{w|Jean Meslier}}'', tome 1, page XXXV, édition R.C. Meijer, 1864}}
+
+==== {{S|synonymes}} ====
+''Demeure du curé :''
+* [[presbytère]]
+''Fonction ecclésiastique :''
+* [[paroisse]] {{doute|synonyme|fr}}
+
+==== {{S|apparentés}} ====
+* [[curatelle]]
+* [[curateur]]
+* [[curatif]]
+* [[curé]]
+* [[curer]]
+* [[cureter]]
+* [[curette]]
+* [[curial]]
+* [[curie]]
+* [[curiste]]
+
+==== {{S|traductions}} ====
+{{trad-début|Traitement}}
+* {{T|en}} : {{trad+|en|treatment}}, {{trad+|en|cure}}
+* {{T|io}} : {{trad+|io|kuraco}}
+* {{T|it}} : {{trad+|it|cura}}, {{trad-|it|trattamento}}
+* {{T|nl}} : {{trad+|nl|kuur}}
+* {{T|cs}} : {{trad+|cs|kúra}}, {{trad-|cs|lečení}}
+* {{T|cu}} : {{trad--|cu|врачєваниѥ|n}}
+* {{T|wa}} : {{trad+|wa|keure}}
+{{trad-fin}}
+
+{{trad-début|Demeure du curé}}
+* {{T|io}} : {{trad-|io|parokeyo}}
+* {{T|nl}} : {{trad-|nl|pastorie}}
+* {{T|cs}} : {{trad+|cs|fara}}
+{{trad-fin}}
+
+{{trad-début|Fonction ecclésiastique}}
+* {{T|io}} : {{trad-|io|parokeso}}
+* {{T|nl}} : {{trad-|nl|pastoorschap}}
+* {{T|cs}} : {{trad-|cs|farnost}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|curer|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui}}
+'''cure''' {{pron|kyʁ|fr}}
+# ''Première personne du singulier de l’indicatif présent de'' [[curer]].
+# ''Troisième personne du singulier de l’indicatif présent de'' [[curer]].
+# ''Première personne du singulier du subjonctif présent de'' [[curer]].
+# ''Troisième personne du singulier du subjonctif présent de'' [[curer]].
+# ''Deuxième personne du singulier de l’impératif de'' [[curer]].
+
+=== {{S|anagrammes}} ===
+* [[crue]]
+* [[écru]]
+* [[reçu]]
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+== {{langue|en}} ==
+=== {{S|nom|en}} ===
+{{en-nom-rég|kjɝ}}
+'''cure''' {{pron|kjɝ|en}}
+# [[guérison|Guérison]], [[remède]].
+# [[cure#fr|Cure]] (2: ''traitement des maladies'').
+
+==== {{S|phrases}} ====
+* [[an ounce of prevention is worth a pound of cure]] ''(mieux vaut prévenir que guérir)''
+
+=== {{S|verbe|en}} ===
+{{en-conj-rég-e|cur}}
+'''to cure''' {{pron|kjɝ|en}}
+# [[guérir|Guérir]], [[soigner]].
+#* ''Can HIV be '''cured'''?''
+# [[assainir|Assainir]].
+
+==== {{S|dérivés}} ====
+* [[incurable#en|incurable]]
+
+=== {{S|prononciation}} ===
+* {{pron|kjɝ|en}}
+** {{écouter|lang=en|États-Unis <!-- précisez svp la ville ou la région -->||audio=En-us-cure.ogg}}
+
+[[chr:cure]]
+[[co:cure]]
+[[cs:cure]]
+[[el:cure]]
+[[en:cure]]
+[[eo:cure]]
+[[es:cure]]
+[[et:cure]]
+[[fa:cure]]
+[[fi:cure]]
+[[hr:cure]]
+[[hu:cure]]
+[[hy:cure]]
+[[io:cure]]
+[[it:cure]]
+[[ja:cure]]
+[[kk:cure]]
+[[kn:cure]]
+[[ko:cure]]
+[[ku:cure]]
+[[li:cure]]
+[[lt:cure]]
+[[mg:cure]]
+[[ml:cure]]
+[[my:cure]]
+[[nl:cure]]
+[[pl:cure]]
+[[pt:cure]]
+[[ro:cure]]
+[[ru:cure]]
+[[sa:cure]]
+[[scn:cure]]
+[[sh:cure]]
+[[simple:cure]]
+[[sv:cure]]
+[[ta:cure]]
+[[te:cure]]
+[[tr:cure]]
+[[vi:cure]]
+[[wa:cure]]
+[[zh:cure]]
